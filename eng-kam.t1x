@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transfer>
+
+  <section-def-cats>
+    <def-cat n="noun">
+      <cat-item tags="n.*"/>
+    </def-cat>
+  </section-def-cats>
+
+  <section-def-attrs>
+    <def-attr n="number">
+      <attr-item tags="sg"/>
+      <attr-item tags="pl"/>
+    </def-attr>
+    <def-attr n="a_nom">
+      <attr-item tags="n"/>
+    </def-attr>
+    <def-attr n="noun_class">
+      <attr-item tags="c1c2"/>
+      <attr-item tags="c3c4"/>
+      <attr-item tags="c5c6"/>
+      <attr-item tags="c7c8"/>
+    </def-attr>
+  </section-def-attrs>
+
+  <section-def-vars>
+  </section-def-vars>
+
+  <section-rules>
+    <rule>
+       <pattern>
+         <pattern-item n="noun"/>
+       </pattern>
+       <action>
+         <out>
+           <lu>
+             <clip pos="1" side="tl" part="a_nom"/>
+             <clip pos="1" side="tl" part="noun_class"/>
+             <clip pos="1" side="tl" part="number"/>
+             <clip pos="1" side="tl" part="lem"/>
+           </lu>
+         </out>
+       </action>
+    </rule>
+  </section-rules>
+
+</transfer>
