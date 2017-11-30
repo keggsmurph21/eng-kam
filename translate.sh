@@ -10,9 +10,9 @@ if [[ $* == *-b* ]]; then
 
   echo -e "${GREEN} >> building monolingual dict tools...${NC}"
   lt-comp lr kam.dix bin/kam-eng.morf
-  lt-comp rl eng.dix bin/kam-eng.gen
-  lt-comp lr eng.dix bin/eng-kam.morf
   lt-comp rl kam.dix bin/eng-kam.gen
+  lt-comp lr eng.dix bin/eng-kam.morf
+  lt-comp rl eng.dix bin/kam-eng.gen
 
   echo -e "${GREEN} >> building bilingual dict tools...${NC}"
   lt-comp lr kam-eng.dix bin/kam-eng.bil
@@ -20,6 +20,7 @@ if [[ $* == *-b* ]]; then
 
   echo -e "${GREEN} >> building transfer tools...${NC}"
   apertium-preprocess-transfer kam-eng.t1x bin/kam-eng.t1x
+  apertium-preprocess-transfer eng-kam.t1x bin/eng-kam.t1x
 
   echo -e "${GREEN} >> all tools built...${NC}"
 
