@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+   <alphabet>AaBbCcDdEeFfGgHhIiĨĩJjKkLlMmNnOoPpQqRrSsTtUuŨũVvWwXxYyZz</alphabet>
+
+   <sdefs>
+     <sdef n="n"/>
+     <sdef n="sg"/>
+     <sdef n="pl"/>
+
+     <sdef n="c1c2"/>
+     <sdef n="c3c4"/>
+     <sdef n="c5c6"/>
+     <sdef n="c7c8"/>
+   </sdefs>
+
+   <section id="main" type="standard">
+     <e><p><l>mũndũ<s n="n"/><s n="c1c2"/></l><r>man<s n="n"/></r></p></e>
+     <e><p><l>mwaki<s n="n"/><s n="c1c2"/></l><r>builder<s n="n"/></r></p></e>
+     <!--<e><p><l>mũkamba<s n="n"/><s n="c1c2"/></l><r>akamba<s n="n"/></r></p></e>-->
+     <e><p><l>mũte<s n="n"/><s n="c3c4"/></l><r>tree<s n="n"/></r></p></e>
+     <e><p><l>mwaki<s n="n"/><s n="c3c4"/></l><r>fire<s n="n"/></r></p></e>
+     <e><p><l>mwaka<s n="n"/><s n="c3c4"/></l><r>year<s n="n"/></r></p></e>
+     <e><p><l>ĩtema<s n="n"/><s n="c5c6"/></l><r>liver<s n="n"/></r></p></e>
+     <e><p><l>ĩtumbe<s n="n"/><s n="c5c6"/></l><r>egg<s n="n"/></r></p></e>
+     <e><p><l>ĩeyo<s n="n"/><s n="c5c6"/></l><r>tooth<s n="n"/></r></p></e>
+     <e><p><l>yanga<s n="n"/><s n="c5c6"/></l><r>cassava<s n="n"/></r></p></e>
+     <e><p><l>thayũ<s n="n"/><s n="c5c6"/></l><r>soul<s n="n"/></r></p></e>
+     <e><p><l>kĩkoyo<s n="n"/><s n="c7c8"/></l><r>leopard<s n="n"/></r></p></e>
+     <e><p><l>kĩvĩla<s n="n"/><s n="c7c8"/></l><r>chair<s n="n"/></r></p></e>
+     <e><p><l>kĩtuo<s n="n"/><s n="c7c8"/></l><r>shoulder<s n="n"/></r></p></e>
+     <e><p><l>kĩwũ<s n="n"/><s n="c7c8"/></l><r>water<s n="n"/></r></p></e>
+   </section>
+</dictionary>

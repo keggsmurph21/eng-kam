@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+  <alphabet>AaBbCcDdEeFfGgHhIiĨĩKkLlMmNnOoSsTtUuŨũVvWwYyZz</alphabet>
+
+  <sdefs>
+    <sdef n="n"/>
+    <sdef n="sg"/>
+    <sdef n="pl"/>
+
+    <sdef n="c1c2"/>
+    <sdef n="c3c4"/>
+    <sdef n="c5c6"/>
+    <sdef n="c7c8"/>
+  </sdefs>
+
+  <pardefs>
+    <pardef n="n__mU/a">
+      <e><p> <l>mũ</l> <r><s n="n"/><s n="c1c2"/><s n="sg"/>mũ</r> </p></e>
+      <e><p> <l>a</l> <r><s n="n"/><s n="c1c2"/><s n="pl"/>mũ</r> </p></e>
+    </pardef>
+    <pardef n="n__mw/-">
+      <e><p> <l>mw</l> <r><s n="n"/><s n="c1c2"/><s n="sg"/>mw</r> </p></e>
+      <e><p> <l></l> <r><s n="n"/><s n="c1c2"/><s n="pl"/>mw</r> </p></e>
+    </pardef>
+    <pardef n="n__mU/mI">
+      <e><p> <l>mũ</l> <r><s n="n"/><s n="c3c4"/><s n="sg"/>mũ</r> </p></e>
+      <e><p> <l>mĩ</l> <r><s n="n"/><s n="c3c4"/><s n="pl"/>mũ</r> </p></e>
+    </pardef>
+    <pardef n="n__mw/I">
+      <e><p> <l>mw</l> <r><s n="n"/><s n="c3c4"/><s n="sg"/>mw</r> </p></e>
+      <e><p> <l>ĩ</l> <r><s n="n"/><s n="c3c4"/><s n="pl"/>mw</r> </p></e>
+    </pardef>
+    <pardef n="n__mw/my">
+      <e><p> <l>mw</l> <r><s n="n"/><s n="c3c4"/><s n="sg"/>mw</r> </p></e>
+      <e><p> <l>my</l> <r><s n="n"/><s n="c3c4"/><s n="pl"/>mw</r> </p></e>
+    </pardef>
+    <pardef n="n__I/ma">
+      <e><p> <l>ĩ</l> <r><s n="n"/><s n="c5c6"/><s n="sg"/>ĩ</r> </p></e>
+      <e><p> <l>ma</l> <r><s n="n"/><s n="c5c6"/><s n="pl"/>ĩ</r> </p></e>
+    </pardef>
+    <pardef n="n__y/m">
+      <e><p> <l>y</l> <r><s n="n"/><s n="c5c6"/><s n="sg"/>y</r> </p></e>
+      <e><p> <l>m</l> <r><s n="n"/><s n="c5c6"/><s n="pl"/>y</r> </p></e>
+    </pardef>
+    <pardef n="n__-/ma">
+      <e><p> <l></l> <r><s n="n"/><s n="c5c6"/><s n="sg"/></r> </p></e>
+      <e><p> <l>ma</l> <r><s n="n"/><s n="c5c6"/><s n="pl"/></r> </p></e>
+    </pardef>
+    <pardef n="n__kI/i">
+      <e><p> <l>kĩ</l> <r><s n="n"/><s n="c7c8"/><s n="sg"/>kĩ</r> </p></e>
+      <e><p> <l>i</l> <r><s n="n"/><s n="c7c8"/><s n="pl"/>kĩ</r> </p></e>
+    </pardef>
+    <pardef n="n__kI/syI">
+      <e><p> <l>kĩ</l> <r><s n="n"/><s n="c7c8"/><s n="sg"/>kĩ</r> </p></e>
+      <e><p> <l>syĩ</l> <r><s n="n"/><s n="c7c8"/><s n="pl"/>kĩ</r> </p></e>
+    </pardef>
+  </pardefs>
+
+  <section id="main" type="standard">
+    <e lm="mũndũ"><par n="n__mU/a"/><i>ndũ</i></e>
+    <e lm="mwaki"><par n="n__mw/-"/><i>aki</i></e>
+    <!--<e lm="mũkamba"><par n="n__mU/a"/><i>kamba</i></e>-->
+    <e lm="mũte"><par n="n__mU/mI"/><i>te</i></e>
+    <e lm="mwaki"><par n="n__mw/I"/><i>aki</i></e>
+    <e lm="mwaka"><par n="n__mw/my"/><i>aka</i></e>
+    <e lm="ĩtema"><par n="n__I/ma"/><i>tema</i></e>
+    <e lm="ĩtumbe"><par n="n__I/ma"/><i>tumbe</i></e>
+    <e lm="ĩeyo"><par n="n__I/ma"/><i>eyo</i></e>
+    <e lm="yanga"><par n="n__y/m"/><i>anga</i></e>
+    <e lm="thayũ"><par n="n__-/ma"/><i>thayũ</i></e>
+    <e lm="kĩkoyo"><par n="n__kI/i"/><i>koyo</i></e>
+    <e lm="kĩvĩla"><par n="n__kI/i"/><i>vĩla</i></e>
+    <e lm="kĩtuo"><par n="n__kI/i"/><i>tuo</i></e>
+    <e lm="kĩwũ"><par n="n__kI/syI"/><i>wũ</i></e>
+  </section>
+
+</dictionary>

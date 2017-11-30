@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+  <alphabet>AaBbCcDdEeFfGgHhIiJjKkLlMmNnOoPpQqRrSsTtUuVvWwXxYyZz</alphabet>
+
+  <sdefs>
+    <sdef n="n"/>
+    <sdef n="sg"/>
+    <sdef n="pl"/>
+  </sdefs>
+
+  <pardefs>
+    <pardef n="n__an/en">
+      <e>
+        <p>
+          <l>an</l>
+          <r>an<s n="n"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>en</l>
+          <r>an<s n="n"/><s n="pl"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="n__s">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>s</l>
+          <r><s n="n"/><s n="pl"/></r>
+        </p>
+      </e>
+    </pardef>
+    <!--<pardef n="n__erson/eople">
+      <e>
+        <p>
+          <l>an</l>
+          <r>erson<s n="n"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>en</l>
+          <r>erson<s n="n"/><s n="pl"/></r>
+        </p>
+      </e>
+    </pardef>-->
+  </pardefs>
+
+  <section id="main" type="standard">
+    <e lm="man"><i>m</i><par n="n__an/en"/></e>
+    <e lm="builder"><i>builder</i><par n="n__s"/></e>
+    <!--<e lm="akamba"><i>Akamba p</i><par n="n__erson/eople"/></e>-->
+    <e lm="tree"><i>tree</i><par n="n__s"/></e>
+    <e lm="fire"><i>fire</i><par n="n__s"/></e>
+    <e lm="year"><i>year</i><par n="n__s"/></e>
+    <e lm="liver"><i>liver</i><par n="n__s"/></e>
+    <e lm="egg"><i>egg</i><par n="n__s"/></e>
+    <e lm="tooth"><i>tooth</i><par n="n__s"/></e>
+    <e lm="cassava"><i>cassava</i><par n="n__s"/></e>
+    <e lm="soul"><i>soul</i><par n="n__s"/></e>
+    <e lm="leopard"><i>leopard</i><par n="n__s"/></e>
+    <e lm="chair"><i>chair</i><par n="n__s"/></e>
+    <e lm="shoulder"><i>shoulder</i><par n="n__s"/></e>
+    <e lm="water"><i>water</i><par n="n__s"/></e>
+  </section>
+
+</dictionary>
