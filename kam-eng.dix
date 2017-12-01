@@ -14,20 +14,20 @@
    </sdefs>
 
    <section id="main" type="standard">
-     <e><p><l>mũndũ<s n="n"/><s n="c1c2"/></l><r>person<s n="n"/></r></p></e>
-     <e><p><l>mwaki<s n="n"/><s n="c1c2"/></l><r>builder<s n="n"/></r></p></e>
-     <!--<e><p><l>mũkamba<s n="n"/><s n="c1c2"/></l><r>akamba<s n="n"/></r></p></e>-->
-     <e><p><l>mũte<s n="n"/><s n="c3c4"/></l><r>tree<s n="n"/></r></p></e>
-     <e><p><l>mwaki<s n="n"/><s n="c3c4"/></l><r>fire<s n="n"/></r></p></e>
-     <e><p><l>mwaka<s n="n"/><s n="c3c4"/></l><r>year<s n="n"/></r></p></e>
-     <e><p><l>ĩtema<s n="n"/><s n="c5c6"/></l><r>liver<s n="n"/></r></p></e>
-     <e><p><l>ĩtumbe<s n="n"/><s n="c5c6"/></l><r>egg<s n="n"/></r></p></e>
-     <e><p><l>ĩeyo<s n="n"/><s n="c5c6"/></l><r>tooth<s n="n"/></r></p></e>
-     <e><p><l>yanga<s n="n"/><s n="c5c6"/></l><r>cassava<s n="n"/></r></p></e>
-     <e><p><l>thayũ<s n="n"/><s n="c5c6"/></l><r>soul<s n="n"/></r></p></e>
-     <e><p><l>kĩkoyo<s n="n"/><s n="c7c8"/></l><r>leopard<s n="n"/></r></p></e>
-     <e><p><l>kĩvĩla<s n="n"/><s n="c7c8"/></l><r>chair<s n="n"/></r></p></e>
-     <e><p><l>kĩtuo<s n="n"/><s n="c7c8"/></l><r>shoulder<s n="n"/></r></p></e>
-     <e><p><l>kĩwũ<s n="n"/><s n="c7c8"/></l><r>water<s n="n"/></r></p></e>
+     <e><p><l>mũndũ<s n="c1c2"/></l><r>person</r></p></e>
+     <e><p><l>mwaki<s n="c1c2"/></l><r>builder</r></p></e>
+     <!--<e><p><l>mũkamba<s n="c1c2"/></l><r>akamba</r></p></e>-->
+     <e><p><l>mũte<s n="c3c4"/></l><r>tree</r></p></e>
+     <e><p><l>mwaki<s n="c3c4"/></l><r>fire</r></p></e>
+     <e><p><l>mwaka<s n="c3c4"/></l><r>year</r></p></e>
+     <e><p><l>ĩtema<s n="c5c6"/></l><r>liver</r></p></e>
+     <e><p><l>ĩtumbe<s n="c5c6"/></l><r>egg</r></p></e>
+     <e><p><l>ĩeyo<s n="c5c6"/></l><r>tooth</r></p></e>
+     <e><p><l>yanga<s n="c5c6"/></l><r>cassava</r></p></e>
+     <e><p><l>thayũ<s n="c5c6"/></l><r>soul</r></p></e>
+     <e><p><l>kĩkoyo<s n="c7c8"/></l><r>leopard</r></p></e>
+     <e><p><l>kĩvĩla<s n="c7c8"/></l><r>chair</r></p></e>
+     <e><p><l>kĩtuo<s n="c7c8"/></l><r>shoulder</r></p></e>
+     <e><p><l>kĩwũ<s n="c7c8"/></l><r>water</r></p></e>
    </section>
 </dictionary>
