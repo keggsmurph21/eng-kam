@@ -17,26 +17,11 @@
       <e><p> <l></l> <r><s n="n"/><s n="sg"/></r> </p></e>
       <e><p> <l>s</l> <r><s n="n"/><s n="pl"/></r> </p></e>
     </pardef>
-    <!--<pardef n="n__erson/eople">
-      <e>
-        <p>
-          <l>an</l>
-          <r>erson<s n="n"/><s n="sg"/></r>
-        </p>
-      </e>
-      <e>
-        <p>
-          <l>en</l>
-          <r>erson<s n="n"/><s n="pl"/></r>
-        </p>
-      </e>
-    </pardef>-->
   </pardefs>
 
   <section id="main" type="standard">
     <e lm="person"><i>p</i><par n="n__erson/eople"/></e>
     <e lm="builder"><i>builder</i><par n="n__s"/></e>
-    <!--<e lm="akamba"><i>Akamba p</i><par n="n__erson/eople"/></e>-->
     <e lm="tree"><i>tree</i><par n="n__s"/></e>
     <e lm="fire"><i>fire</i><par n="n__s"/></e>
     <e lm="year"><i>year</i><par n="n__s"/></e>
