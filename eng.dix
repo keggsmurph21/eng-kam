@@ -17,6 +17,10 @@
       <e><p> <l></l> <r><s n="n"/><s n="sg"/></r> </p></e>
       <e><p> <l>s</l> <r><s n="n"/><s n="pl"/></r> </p></e>
     </pardef>
+    <pardef n="n__es">
+      <e><p> <l></l> <r><s n="n"/><s n="sg"/></r> </p></e>
+      <e><p> <l>es</l> <r><s n="n"/><s n="pl"/></r> </p></e>
+    </pardef>
   </pardefs>
 
   <section id="main" type="standard">
@@ -27,7 +31,13 @@
     <e lm="year"><i>year</i><par n="n__s"/></e>
     <e lm="liver"><i>liver</i><par n="n__s"/></e>
     <e lm="egg"><i>egg</i><par n="n__s"/></e>
+    <e lm="good morning"><i>good morning</i><par n="n__s"/></e>
+    <e lm="bun"><i>bun</i><par n="n__s"/></e>
+    <e lm="writing"><i>writing</i><par n="n__s"/></e>
+    <e lm="scarecrow"><i>scarecrow</i><par n="n__s"/></e>
     <e lm="tooth"><i>tooth</i><par n="n__s"/></e>
+    <e lm="roughly ground grain"><i>roughly ground grain</i><par n="n__s"/></e>
+    <e lm="branch"><i>branch</i><par n="n__es"/></e>
     <e lm="cassava"><i>cassava</i><par n="n__s"/></e>
     <e lm="soul"><i>soul</i><par n="n__s"/></e>
     <e lm="leopard"><i>leopard</i><par n="n__s"/></e>
