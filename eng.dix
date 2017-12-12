@@ -6,6 +6,7 @@
     <sdef n="n"/>
     <sdef n="sg"/>
     <sdef n="pl"/>
+    <sdef n="a"/>
   </sdefs>
 
   <pardefs>
@@ -20,6 +21,9 @@
     <pardef n="n__es">
       <e><p> <l></l> <r><s n="n"/><s n="sg"/></r> </p></e>
       <e><p> <l>es</l> <r><s n="n"/><s n="pl"/></r> </p></e>
+    </pardef>
+    <pardef n="adj">
+      <e><p> <l></l> <r><s n="a"/></r> </p></e>
     </pardef>
   </pardefs>
 
@@ -44,6 +48,7 @@
     <e lm="chair"><i>chair</i><par n="n__s"/></e>
     <e lm="shoulder"><i>shoulder</i><par n="n__s"/></e>
     <e lm="water"><i>water</i><par n="n__s"/></e>
+    <e lm="small"><i>small</i><par n="adj"/></e>
   </section>
 
 </dictionary>

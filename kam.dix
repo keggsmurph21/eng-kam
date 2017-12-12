@@ -11,6 +11,16 @@
     <sdef n="c3c4"/>
     <sdef n="c5c6"/>
     <sdef n="c7c8"/>
+    <sdef n="c9"/>
+    <sdef n="c11c12"/>
+    <sdef n="cA"/>
+    <sdef n="cB"/>
+    <sdef n="cC"/>
+    <sdef n="cD"/>
+    <sdef n="cE"/>
+    <sdef n="cF"/>
+
+    <sdef n="a"/>
   </sdefs>
 
   <pardefs>
@@ -54,6 +64,25 @@
       <e><p> <l>kĩ</l> <r><s n="n"/><s n="c7c8"/><s n="sg"/>kĩ</r> </p></e>
       <e><p> <l>syĩ</l> <r><s n="n"/><s n="c7c8"/><s n="pl"/>kĩ</r> </p></e>
     </pardef>
+    <pardef n="adj">
+      <e><p> <l>mũ</l> <r><s n="a"/><s n="c1c2"/><s n="sg"/></r> </p></e>
+      <e><p> <l>a</l> <r><s n="a"/><s n="c1c2"/><s n="pl"/></r> </p></e>
+      <e><p> <l>mũ</l> <r><s n="a"/><s n="c3c4"/><s n="sg"/></r> </p></e>
+      <e><p> <l>mĩ</l> <r><s n="a"/><s n="c3c4"/><s n="pl"/></r> </p></e>
+      <e><p> <l>ĩ</l> <r><s n="a"/><s n="c5c6"/><s n="sg"/></r> </p></e>
+      <e><p> <l>ma</l> <r><s n="a"/><s n="c5c6"/><s n="pl"/></r> </p></e>
+      <e><p> <l>kĩ</l> <r><s n="a"/><s n="c7c8"/><s n="sg"/></r> </p></e>
+      <e><p> <l></l> <r><s n="a"/><s n="c7c8"/><s n="pl"/></r> </p></e>
+      <e><p> <l></l> <r><s n="a"/><s n="c9"/><s n="sg"/></r> </p></e>
+      <e><p> <l>ka</l> <r><s n="a"/><s n="c11c12"/><s n="sg"/></r> </p></e>
+      <e><p> <l>tũ</l> <r><s n="a"/><s n="c11c12"/><s n="pl"/></r> </p></e>
+      <e><p> <l>va</l> <r><s n="a"/><s n="cA"/><s n="sg"/></r> </p></e>
+      <e><p> <l>kũ</l> <r><s n="a"/><s n="cB"/><s n="sg"/></r> </p></e>
+      <e><p> <l>ma</l> <r><s n="a"/><s n="cC"/><s n="sg"/></r> </p></e>
+      <e><p> <l></l> <r><s n="a"/><s n="cD"/><s n="sg"/></r> </p></e>
+      <e><p> <l></l> <r><s n="a"/><s n="cE"/><s n="sg"/></r> </p></e>
+      <e><p> <l>mũ</l> <r><s n="a"/><s n="cF"/><s n="sg"/></r> </p></e>
+</pardef>
   </pardefs>
 
   <section id="main" type="standard">
@@ -77,6 +106,7 @@
     <e lm="kĩvĩla"><par n="n__kI/i"/><i>vĩla</i></e>
     <e lm="kĩtuo"><par n="n__kI/i"/><i>tuo</i></e>
     <e lm="kĩwũ"><par n="n__kI/syI"/><i>wũ</i></e>
+    <e lm="nĩnĩ"><par n="adj"/><i>nĩnĩ</i></e>
   </section>
 
 </dictionary>

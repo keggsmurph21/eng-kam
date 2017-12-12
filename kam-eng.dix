@@ -11,6 +11,16 @@
      <sdef n="c3c4"/>
      <sdef n="c5c6"/>
      <sdef n="c7c8"/>
+     <sdef n="c9"/>
+     <sdef n="c11c12"/>
+     <sdef n="cA"/>
+     <sdef n="cB"/>
+     <sdef n="cC"/>
+     <sdef n="cD"/>
+     <sdef n="cE"/>
+     <sdef n="cF"/>
+
+     <sdef n="a">
    </sdefs>
 
    <section id="main" type="standard">
@@ -34,5 +44,6 @@
      <e><p><l>kĩvĩla<s n="c7c8"/></l><r>chair</r></p></e>
      <e><p><l>kĩtuo<s n="c7c8"/></l><r>shoulder</r></p></e>
      <e><p><l>kĩwũ<s n="c7c8"/></l><r>water</r></p></e>
+     <e><p><l>mũnĩnĩ<s n="a"/></l><r>small</r></p></e>
    </section>
 </dictionary>
