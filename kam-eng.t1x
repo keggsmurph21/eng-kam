@@ -15,6 +15,12 @@
     <def-attr n="a_nom">
       <attr-item tags="n"/>
     </def-attr>
+    <def-attr n="noun_class">
+      <attr-item tags="c1c2"/>
+      <attr-item tags="c3c4"/>
+      <attr-item tags="c5c6"/>
+      <attr-item tags="c7c8"/>
+    </def-attr>
   </section-def-attrs>
 
   <section-def-vars>
@@ -29,6 +35,7 @@
          <out>
            <lu>
              <clip pos="1" side="tl" part="lem"/>
+             <clip pos="1" side="tl" part="noun_class"/>
              <clip pos="1" side="tl" part="a_nom"/>
              <clip pos="1" side="tl" part="number"/>
            </lu>

@@ -53,6 +53,9 @@ while true; do
   fi
   if [[ $TOKEN == *"&"* ]]; then
     echo $TOKEN | lt-proc bin/$DIR.morf
+  elif [[ $TOKEN == *"="* ]]; then
+    echo $TOKEN | lt-proc bin/$DIR.morf | \
+      python pretagger.py
   elif [[ $TOKEN == *"?"* ]]; then
     echo $TOKEN | lt-proc bin/$DIR.morf | \
       python pretagger.py | \
