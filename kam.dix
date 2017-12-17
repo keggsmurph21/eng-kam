@@ -82,8 +82,8 @@
       <e><p> <l></l> <r><s n="a"/><s n="cD"/><s n="sg"/></r> </p></e>
       <e><p> <l></l> <r><s n="a"/><s n="cE"/><s n="sg"/></r> </p></e>
       <e><p> <l>mũ</l> <r><s n="a"/><s n="cF"/><s n="sg"/></r> </p></e>
-</pardef>
-  </pardefs>
+    </pardef>
+</pardefs>
 
   <section id="main" type="standard">
     <e lm="mũndũ"><par n="n__mU/a"/><i>ndũ</i></e>
