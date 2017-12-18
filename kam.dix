@@ -25,44 +25,48 @@
 
   <pardefs>
     <pardef n="n__mU/a">
-      <e><p> <l>mũ</l> <r><s n="n"/><s n="c1c2"/><s n="sg"/>mũ</r> </p></e>
-      <e><p> <l>a</l> <r><s n="n"/><s n="c1c2"/><s n="pl"/>mũ</r> </p></e>
+      <e><p> <l>mũ</l> <r><s n="c1c2"/><s n="n"/><s n="sg"/>mũ</r> </p></e>
+      <e><p> <l>a</l> <r><s n="c1c2"/><s n="n"/><s n="pl"/>mũ</r> </p></e>
     </pardef>
     <pardef n="n__mw/-">
-      <e><p> <l>mw</l> <r><s n="n"/><s n="c1c2"/><s n="sg"/>mw</r> </p></e>
-      <e><p> <l></l> <r><s n="n"/><s n="c1c2"/><s n="pl"/>mw</r> </p></e>
+      <e><p> <l>mw</l> <r><s n="c1c2"/><s n="n"/><s n="sg"/>mw</r> </p></e>
+      <e><p> <l></l> <r><s n="c1c2"/><s n="n"/><s n="pl"/>mw</r> </p></e>
     </pardef>
     <pardef n="n__mU/mI">
-      <e><p> <l>mũ</l> <r><s n="n"/><s n="c3c4"/><s n="sg"/>mũ</r> </p></e>
-      <e><p> <l>mĩ</l> <r><s n="n"/><s n="c3c4"/><s n="pl"/>mũ</r> </p></e>
+      <e><p> <l>mũ</l> <r><s n="c3c4"/><s n="n"/><s n="sg"/>mũ</r> </p></e>
+      <e><p> <l>mĩ</l> <r><s n="c3c4"/><s n="n"/><s n="pl"/>mũ</r> </p></e>
     </pardef>
     <pardef n="n__mw/I">
-      <e><p> <l>mw</l> <r><s n="n"/><s n="c3c4"/><s n="sg"/>mw</r> </p></e>
-      <e><p> <l>ĩ</l> <r><s n="n"/><s n="c3c4"/><s n="pl"/>mw</r> </p></e>
+      <e><p> <l>mw</l> <r><s n="c3c4"/><s n="n"/><s n="sg"/>mw</r> </p></e>
+      <e><p> <l>ĩ</l> <r><s n="c3c4"/><s n="n"/><s n="pl"/>mw</r> </p></e>
     </pardef>
     <pardef n="n__mw/my">
-      <e><p> <l>mw</l> <r><s n="n"/><s n="c3c4"/><s n="sg"/>mw</r> </p></e>
-      <e><p> <l>my</l> <r><s n="n"/><s n="c3c4"/><s n="pl"/>mw</r> </p></e>
+      <e><p> <l>mw</l> <r><s n="c3c4"/><s n="n"/><s n="sg"/>mw</r> </p></e>
+      <e><p> <l>my</l> <r><s n="c3c4"/><s n="n"/><s n="pl"/>mw</r> </p></e>
     </pardef>
     <pardef n="n__I/ma">
-      <e><p> <l>ĩ</l> <r><s n="n"/><s n="c5c6"/><s n="sg"/>ĩ</r> </p></e>
-      <e><p> <l>ma</l> <r><s n="n"/><s n="c5c6"/><s n="pl"/>ĩ</r> </p></e>
+      <e><p> <l>ĩ</l> <r><s n="c5c6"/><s n="n"/><s n="sg"/>ĩ</r> </p></e>
+      <e><p> <l>ma</l> <r><s n="c5c6"/><s n="n"/><s n="pl"/>ĩ</r> </p></e>
+    </pardef>
+    <pardef n="n__I/m">
+      <e><p> <l>ĩ</l> <r><s n="c5c6"/><s n="n"/><s n="sg"/>ĩ</r> </p></e>
+      <e><p> <l>m</l> <r><s n="c5c6"/><s n="n"/><s n="pl"/>ĩ</r> </p></e>
     </pardef>
     <pardef n="n__y/m">
-      <e><p> <l>y</l> <r><s n="n"/><s n="c5c6"/><s n="sg"/>y</r> </p></e>
-      <e><p> <l>m</l> <r><s n="n"/><s n="c5c6"/><s n="pl"/>y</r> </p></e>
+      <e><p> <l>y</l> <r><s n="c5c6"/><s n="n"/><s n="sg"/>y</r> </p></e>
+      <e><p> <l>m</l> <r><s n="c5c6"/><s n="n"/><s n="pl"/>y</r> </p></e>
     </pardef>
     <pardef n="n__-/ma">
-      <e><p> <l></l> <r><s n="n"/><s n="c5c6"/><s n="sg"/></r> </p></e>
-      <e><p> <l>ma</l> <r><s n="n"/><s n="c5c6"/><s n="pl"/></r> </p></e>
+      <e><p> <l></l> <r><s n="c5c6"/><s n="n"/><s n="sg"/></r> </p></e>
+      <e><p> <l>ma</l> <r><s n="c5c6"/><s n="n"/><s n="pl"/></r> </p></e>
     </pardef>
     <pardef n="n__kI/i">
-      <e><p> <l>kĩ</l> <r><s n="n"/><s n="c7c8"/><s n="sg"/>kĩ</r> </p></e>
-      <e><p> <l>i</l> <r><s n="n"/><s n="c7c8"/><s n="pl"/>kĩ</r> </p></e>
+      <e><p> <l>kĩ</l> <r><s n="c7c8"/><s n="n"/><s n="sg"/>kĩ</r> </p></e>
+      <e><p> <l>i</l> <r><s n="c7c8"/><s n="n"/><s n="pl"/>kĩ</r> </p></e>
     </pardef>
     <pardef n="n__kI/syI">
-      <e><p> <l>kĩ</l> <r><s n="n"/><s n="c7c8"/><s n="sg"/>kĩ</r> </p></e>
-      <e><p> <l>syĩ</l> <r><s n="n"/><s n="c7c8"/><s n="pl"/>kĩ</r> </p></e>
+      <e><p> <l>kĩ</l> <r><s n="c7c8"/><s n="n"/><s n="sg"/>kĩ</r> </p></e>
+      <e><p> <l>syĩ</l> <r><s n="c7c8"/><s n="n"/><s n="pl"/>kĩ</r> </p></e>
     </pardef>
     <pardef n="adj">
       <e><p> <l>mũ</l> <r><s n="a"/><s n="c1c2"/><s n="sg"/></r> </p></e>
@@ -83,6 +87,25 @@
       <e><p> <l></l> <r><s n="a"/><s n="cE"/><s n="sg"/></r> </p></e>
       <e><p> <l>mũ</l> <r><s n="a"/><s n="cF"/><s n="sg"/></r> </p></e>
     </pardef>
+    <pardef n="adj_s/nz">
+      <e><p> <l>mũs</l> <r><s n="a"/><s n="c1c2"/><s n="sg"/>s</r> </p></e>
+      <e><p> <l>as</l> <r><s n="a"/><s n="c1c2"/><s n="pl"/>s</r> </p></e>
+      <e><p> <l>mũs</l> <r><s n="a"/><s n="c3c4"/><s n="sg"/>s</r> </p></e>
+      <e><p> <l>mĩs</l> <r><s n="a"/><s n="c3c4"/><s n="pl"/>s</r> </p></e>
+      <e><p> <l>ĩs</l> <r><s n="a"/><s n="c5c6"/><s n="sg"/>s</r> </p></e>
+      <e><p> <l>mas</l> <r><s n="a"/><s n="c5c6"/><s n="pl"/>s</r> </p></e>
+      <e><p> <l>kĩs</l> <r><s n="a"/><s n="c7c8"/><s n="sg"/>s</r> </p></e>
+      <e><p> <l>nz</l> <r><s n="a"/><s n="c7c8"/><s n="pl"/>s</r> </p></e>
+      <e><p> <l>nz</l> <r><s n="a"/><s n="c9"/><s n="sg"/>s</r> </p></e>
+      <e><p> <l>kas</l> <r><s n="a"/><s n="c11c12"/><s n="sg"/>s</r> </p></e>
+      <e><p> <l>tũs</l> <r><s n="a"/><s n="c11c12"/><s n="pl"/>s</r> </p></e>
+      <e><p> <l>vas</l> <r><s n="a"/><s n="cA"/><s n="sg"/>s</r> </p></e>
+      <e><p> <l>kũs</l> <r><s n="a"/><s n="cB"/><s n="sg"/>s</r> </p></e>
+      <e><p> <l>mas</l> <r><s n="a"/><s n="cC"/><s n="sg"/>s</r> </p></e>
+      <e><p> <l>nz</l> <r><s n="a"/><s n="cD"/><s n="sg"/>s</r> </p></e>
+      <e><p> <l>nz</l> <r><s n="a"/><s n="cE"/><s n="sg"/>s</r> </p></e>
+      <e><p> <l>mũ</l> <r><s n="a"/><s n="cF"/><s n="sg"/>s</r> </p></e>
+    </pardef>
 </pardefs>
 
   <section id="main" type="standard">
@@ -93,19 +116,19 @@
     <e lm="mwaka"><par n="n__mw/my"/><i>aka</i></e>
     <e lm="ĩtema"><par n="n__I/ma"/><i>tema</i></e>
     <e lm="ĩtumbe"><par n="n__I/ma"/><i>tumbe</i></e>
-    <e lm="ĩamũko"><par n="n__I/ma"/><i>amũko</i></e>
-    <e lm="ĩandasi"><par n="n__I/ma"/><i>andasi</i></e>
-    <e lm="ĩandĩko"><par n="n__I/ma"/><i>andĩko</i></e>
+    <e lm="ĩamũko"><par n="n__I/m"/><i>amũko</i></e>
+    <e lm="ĩandasi"><par n="n__I/m"/><i>andasi</i></e>
+    <e lm="ĩandĩko"><par n="n__I/m"/><i>andĩko</i></e>
     <e lm="ĩia"><par n="n__I/ma"/><i>ia</i></e>
     <e lm="ĩeyo"><par n="n__I/ma"/><i>eyo</i></e>
     <e lm="ĩkeleko"><par n="n__I/ma"/><i>keleko</i></e>
     <e lm="ĩkooa"><par n="n__I/ma"/><i>kooa</i></e>
     <e lm="ĩsembo"><par n="n__I/ma"/><i>sembo</i></e>
-    <e lm="ĩlovoto"><par n="n__I/ma"/><i>lvoto</i></e>
+    <e lm="ĩlovoto"><par n="n__I/ma"/><i>lovoto</i></e>
     <e lm="ĩseso"><par n="n__I/ma"/><i>seso</i></e>
     <e lm="ĩsindano"><par n="n__I/ma"/><i>sindano</i></e>
     <e lm="ĩsomo"><par n="n__I/ma"/><i>somo</i></e>
-    <e lm="ikalatya"><par n="n__I/ma"/><i>kalatya</i></e>
+    <e lm="ĩkalatya"><par n="n__I/ma"/><i>kalatya</i></e>
     <e lm="yaka"><par n="n__y/m"/><i>aka</i></e>
     <e lm="yanga"><par n="n__y/m"/><i>anga</i></e>
     <e lm="thayũ"><par n="n__-/ma"/><i>thayũ</i></e>
@@ -114,6 +137,8 @@
     <e lm="kĩtuo"><par n="n__kI/i"/><i>tuo</i></e>
     <e lm="kĩwũ"><par n="n__kI/syI"/><i>wũ</i></e>
     <e lm="nĩnĩ"><par n="adj"/><i>nĩnĩ</i></e>
+    <e lm="nene"><par n="adj"/><i>nene</i></e>
+    <e lm="seo"><par n="adj_s/nz"/><i>eo</i></e>
   </section>
 
 </dictionary>

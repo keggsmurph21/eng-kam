@@ -14,6 +14,10 @@
       <e><p> <l>erson</l> <r>erson<s n="n"/><s n="sg"/></r> </p></e>
       <e><p> <l>eople</l> <r>erson<s n="n"/><s n="pl"/></r> </p></e>
     </pardef>
+    <pardef n="n__ooth/eeth">
+      <e><p> <l>ooth</l> <r>ooth<s n="n"/><s n="sg"/></r> </p></e>
+      <e><p> <l>eeth</l> <r>ooth<s n="n"/><s n="pl"/></r> </p></e>
+    </pardef>
     <pardef n="n__s">
       <e><p> <l></l> <r><s n="n"/><s n="sg"/></r> </p></e>
       <e><p> <l>s</l> <r><s n="n"/><s n="pl"/></r> </p></e>
@@ -39,7 +43,7 @@
     <e lm="bun"><i>bun</i><par n="n__s"/></e>
     <e lm="writing"><i>writing</i><par n="n__s"/></e>
     <e lm="scarecrow"><i>scarecrow</i><par n="n__s"/></e>
-    <e lm="tooth"><i>tooth</i><par n="n__s"/></e>
+    <e lm="tooth"><i>t</i><par n="n__ooth/eeth"/></e>
     <e lm="dreg"><i>dreg</i><par n="n__s"/></e>
     <e lm="cough"><i>cough</i><par n="n__s"/></e>
     <e lm="track meet"><i>track meet</i><par n="n__s"/></e>
@@ -56,6 +60,8 @@
     <e lm="shoulder"><i>shoulder</i><par n="n__s"/></e>
     <e lm="water"><i>water</i><par n="n__s"/></e>
     <e lm="small"><i>small</i><par n="adj"/></e>
+    <e lm="big"><i>big</i><par n="adj"/></e>
+    <e lm="good"><i>good</i><par n="adj"/></e>
   </section>
 
 </dictionary>
