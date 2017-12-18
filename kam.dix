@@ -117,10 +117,11 @@
     <e lm="ĩvia"><par n="n__I/ma"/><i>ĩvia</i></e>
     <e lm="ĩwa"><par n="n__I/ma"/><i>ĩwa</i></e>
 
-    <e lm="ikalatya"><par n="n__I/ma"/><i>kalatya</i></e>
     <e lm="yaka"><par n="n__y/m"/><i>aka</i></e>
     <e lm="yanga"><par n="n__y/m"/><i>anga</i></e>
     <e lm="thayũ"><par n="n__-/ma"/><i>thayũ</i></e>
+
+    <!-- <e lm="ikalatya"><par n="n__I/ma"/><i>kalatya</i></e> -->
     <e lm="kĩkoyo"><par n="n__kI/i"/><i>koyo</i></e>
     <e lm="kĩvĩla"><par n="n__kI/i"/><i>vĩla</i></e>
     <e lm="kĩtuo"><par n="n__kI/i"/><i>tuo</i></e>
