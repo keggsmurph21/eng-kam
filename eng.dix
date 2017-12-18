@@ -26,9 +26,10 @@
       <e><p> <l></l> <r><s n="n"/><s n="sg"/></r> </p></e>
       <e><p> <l>es</l> <r><s n="n"/><s n="pl"/></r> </p></e>
     </pardef>
-    <pardef n="n__">
+    <pardef n="n__-/-">
       <e><p> <l></l> <r><s n="n"/><s n="sg"/></r> </p></e>
       <e><p> <l></l> <r><s n="n"/><s n="pl"/></r> </p></e>
+    </pardef>
     <pardef n="adj">
       <e><p> <l></l> <r><s n="a"/></r> </p></e>
     </pardef>
@@ -63,7 +64,7 @@
     <e lm="leftover"><i>leftover</i><par n="n__s"/></e>
     <e lm="day"><i>day</i><par n="n__s"/></e>
     <e lm="butter"><i>butter</i><par n="n__s"/></e>
-    <e lm="pus"><i>pusses</i><par n="n__"/></e>
+    <e lm="pus"><i>pusses</i><par n="n__-/-"/></e>
 
     <e lm="branch"><i>branch</i><par n="n__es"/></e>
     <e lm="cassava"><i>cassava</i><par n="n__s"/></e>

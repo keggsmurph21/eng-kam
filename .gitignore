@@ -5,7 +5,7 @@
 *#
 
 # test files
-tests
+tests/*
 
 # binary files
-bin
+bin/*
