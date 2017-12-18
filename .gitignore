@@ -1,10 +1,11 @@
 
 # System files
 .DS_Store
-
-# vim/emacs backups
 *~
 *#
 
 # test files
 tests
+
+# binary files
+bin
