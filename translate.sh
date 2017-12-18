@@ -29,12 +29,33 @@ if [[ $* == *-b* ]]; then
   fi
 fi
 
+# show some help stuff
+if [[ $* == *-h* ]]; then
+
+  echo -e "\nAvailable execution flags:${GREEN}"
+  echo -e "\t-b, --build\tForce a compile of all dictionary tools"
+  echo -e "\t-e\t\tUse English->Kikamba translations"
+  echo -e "\t-h, --help\tShow this help page${NC}"
+
+  echo -e "\nSpecial line characters:${GREEN}"
+  echo -e "\tπ\t\tForce a one-time translation in the opposite direction"
+  echo -e "\t&\t\tShow morphological analysis"
+  echo -e "\t=\t\tShow morphological analysis and pretagging output"
+  echo -e "\t?\t\tShow transfered but ungenerated morphemes${NC}"
+
+  if [[ $* == *--help* ]]; then
+    exit
+  fi
+fi
+
 # set the correct translation direction
 NAME="Kikamba"
-DIR="kam-eng"
+SRC="kam-eng"
+TAR="eng-kam"
 if [[ $* == *-e* ]]; then
   NAME="English"
-  DIR="eng-kam"
+  SRC="eng-kam"
+  TAR="kam-eng"
 fi
 
 # get SOURCE tokens
@@ -46,6 +67,12 @@ while true; do
   # replace U with ũ and I with ĩ
   TOKEN=${TOKEN//I/ĩ}
   TOKEN=${TOKEN//U/ũ}
+
+  # allow one-line translations going the other way
+  DIR=$SRC
+  if [[ $TOKEN == *"π"* ]]; then
+    DIR=$TAR
+  fi
 
   # analyze it (in SOURCE) and optionally generate it (into TARGET)
   if [[ $TOKEN == 'quit()' ]]; then
