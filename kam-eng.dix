@@ -29,6 +29,8 @@
      <e><p><l>mũte<s n="c3c4"/></l><r>tree</r></p></e>
      <e><p><l>mwaki<s n="c3c4"/></l><r>fire</r></p></e>
      <e><p><l>mwaka<s n="c3c4"/></l><r>year</r></p></e>
+
+     <!-- Noun classes 5, 6 -->
      <e><p><l>ĩtema<s n="c5c6"/></l><r>liver</r></p></e>
      <e><p><l>ĩtumbe<s n="c5c6"/></l><r>egg</r></p></e>
      <e><p><l>ĩamũko<s n="c5c6"/></l><r>good morning</r></p></e>
@@ -40,13 +42,26 @@
      <e><p><l>ĩkooa<s n="c5c6"/></l><r>cough</r></p></e>
      <e><p><l>ĩsembo<s n="c5c6"/></l><r>track meet</r></p></e>
      <e><p><l>ĩlovoto<s n="c5c6"/></l><r>droplet</r></p></e>
-     <e><p><l>ĩseso<s n="c5c6"/></l><r>honey comb</r></p></e>
+     <e><p><l>ĩseso<s n="c5c6"/></l><r>honeycomb</r></p></e>
      <e><p><l>ĩsindano<s n="c5c6"/></l><r>competition</r></p></e>
-     <e><p><l>ĩsomo<s n="c5c6"/></l><r>sibling</r></p></e>
+     <e><p><l>ĩsindano ma wanake<s n="c5c6"/></l><r>beauty pageant</r></p></e>
+     <e><p><l>ĩsomo<s n="c5c6"/></l><r>lesson</r></p></e>
+     <e><p><l>ĩthaa<s n="c5c6"/></l><r>decoration</r></p></e>
+     <e><p><l>ĩvive<s n="c5c6"/></l><r>decoration</r></p></e>
+     <e><p><l>ĩthaũ<s n="c5c6"/></l><r>sport</r></p></e>
+     <e><p><l>ĩthaũ<s n="c5c6"/></l><r>banter</r></p></e>
+     <e><p><l>ĩtialyo<s n="c5c6"/></l><r>leftover</r></p></e>
+     <e><p><l>ĩtukũ<s n="c5c6"/></l><r>day</r></p></e>
+     <e><p><l>ĩuta<s n="c5c6"/></l><r>butter</r></p></e>
+     <e><p><l>ĩvia><s n="c5c6"/></l><r>pus</r></p></e>
+     <e><p><l>ĩwa><s n="c5c6"/></l><r>honeycomb</r></p></e>
      <e><p><l>ĩkalatya<s n="c5c6"/></l><r>roughly ground grain</r></p></e>
+
      <e><p><l>yaka<s n="c5c6"/></l><r>branch</r></p></e>
      <e><p><l>yanga<s n="c5c6"/></l><r>cassava</r></p></e>
      <e><p><l>thayũ<s n="c5c6"/></l><r>soul</r></p></e>
+
+     <e><p><l>ĩkalatya<s n="c5c6"/></l><r>roughly ground grain</r></p></e>
      <e><p><l>kĩkoyo<s n="c7c8"/></l><r>leopard</r></p></e>
      <e><p><l>kĩvĩla<s n="c7c8"/></l><r>chair</r></p></e>
      <e><p><l>kĩtuo<s n="c7c8"/></l><r>shoulder</r></p></e>
