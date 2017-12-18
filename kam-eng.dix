@@ -72,8 +72,9 @@
      <e><p><l>nene</l><r>big</r></p></e>
      <e><p><l>seo</l><r>good</r></p></e>
 
+     <!-- not ready for demonstratives yet
      <e><p><l>ũ</l><r>this</r></p></e>
-     <e><p><l>u</l><r>that</r></p></e>
+     <e><p><l>u</l><r>that</r></p></e> -->
    </section>
 
 </dictionary>

@@ -84,8 +84,9 @@
     <e lm="big"><i>big</i><par n="adj"/></e>
     <e lm="good"><i>good</i><par n="adj"/></e>
 
+    <!-- not ready for demonstratives yet
     <e lm="this"><i>this</i><par n="dem"/></e>
-    <e lm="that"><i>that</i><par n="dem"/></e>
+    <e lm="that"><i>that</i><par n="dem"/></e> -->
   </section>
 
 </dictionary>

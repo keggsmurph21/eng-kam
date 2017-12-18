@@ -193,8 +193,9 @@
     <e lm="nene"><par n="adj"/><i>nene</i></e>
     <e lm="seo"><par n="adj_s/nz"/><i>eo</i></e>
 
+    <!-- not ready for demonstratives yet
     <e lm="ũ"><par n="dem_U"/><i></i></e>
-    <e lm="u"><par n="dem_u"/><i>u</i></e>
+    <e lm="u"><par n="dem_u"/><i>u</i></e> -->
   </section>
 
 </dictionary>
