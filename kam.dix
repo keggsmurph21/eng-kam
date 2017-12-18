@@ -91,6 +91,8 @@
     <e lm="mũte"><par n="n__mU/mI"/><i>te</i></e>
     <e lm="mwaki"><par n="n__mw/I"/><i>aki</i></e>
     <e lm="mwaka"><par n="n__mw/my"/><i>aka</i></e>
+
+    <!-- Noun classes 5, 6 -->
     <e lm="ĩtema"><par n="n__I/ma"/><i>tema</i></e>
     <e lm="ĩtumbe"><par n="n__I/ma"/><i>tumbe</i></e>
     <e lm="ĩamũko"><par n="n__I/ma"/><i>amũko</i></e>
@@ -104,7 +106,17 @@
     <e lm="ĩlovoto"><par n="n__I/ma"/><i>lvoto</i></e>
     <e lm="ĩseso"><par n="n__I/ma"/><i>seso</i></e>
     <e lm="ĩsindano"><par n="n__I/ma"/><i>sindano</i></e>
+    <e lm="ĩsindano ma wanake"><par n="n__I/ma"/><i>sindano ma wanake</i></e>
     <e lm="ĩsomo"><par n="n__I/ma"/><i>somo</i></e>
+    <e lm="ĩthaa"><par n="n__I/ma"/><i>thaa</i></e>
+    <e lm="ĩvive"><par n="n__I/ma"/><i>vive</i></e>
+    <e lm="ĩthaũ"><par n="n__I/ma"/><i>thaũ</i></e>
+    <e lm="ĩtialyo"><par n="n__I/ma"/><i>tialyo</i></e>
+    <e lm="ĩtukũ"><par n="n__I/ma"/><i>ĩtukũ</i></e>
+    <e lm="ĩuta"><par n="n__I/ma"/><i>ĩuta</i></e>
+    <e lm="ĩvia"><par n="n__I/ma"/><i>ĩvia</i></e>
+    <e lm="ĩwa"><par n="n__I/ma"/><i>ĩwa</i></e>
+
     <e lm="ikalatya"><par n="n__I/ma"/><i>kalatya</i></e>
     <e lm="yaka"><par n="n__y/m"/><i>aka</i></e>
     <e lm="yanga"><par n="n__y/m"/><i>anga</i></e>
