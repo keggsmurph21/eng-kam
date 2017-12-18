@@ -21,6 +21,7 @@
     <sdef n="cF"/>
 
     <sdef n="a"/>
+    <sdef n="dem"/>
   </sdefs>
 
   <pardefs>
@@ -106,6 +107,44 @@
       <e><p> <l>nz</l> <r><s n="a"/><s n="cE"/><s n="sg"/>s</r> </p></e>
       <e><p> <l>mũ</l> <r><s n="a"/><s n="cF"/><s n="sg"/>s</r> </p></e>
     </pardef>
+    <pardef n="dem_U">
+      <e><p> <l>ũyũ</l> <r><s n="dem"/><s n="c1c2"/><s n="sg"/>ũ</r> </p></e>
+      <e><p> <l>aya</l> <r><s n="dem"/><s n="c1c2"/><s n="pl"/>ũ</r> </p></e>
+      <e><p> <l>ũyũ</l> <r><s n="dem"/><s n="c3c4"/><s n="sg"/>ũ</r> </p></e>
+      <e><p> <l>ĩnũ</l> <r><s n="dem"/><s n="c3c4"/><s n="pl"/>ũ</r> </p></e>
+      <e><p> <l>yĩĩ</l> <r><s n="dem"/><s n="c5c6"/><s n="sg"/>ũ</r> </p></e>
+      <e><p> <l>aya</l> <r><s n="dem"/><s n="c5c6"/><s n="pl"/>ũ</r> </p></e>
+      <e><p> <l>kĩĩ</l> <r><s n="dem"/><s n="c7c8"/><s n="sg"/>ũ</r> </p></e>
+      <e><p> <l>ii</l> <r><s n="dem"/><s n="c7c8"/><s n="pl"/>ũ</r> </p></e>
+      <e><p> <l>ĩno</l> <r><s n="dem"/><s n="c9"/><s n="sg"/>ũ</r> </p></e>
+      <e><p> <l>kaa</l> <r><s n="dem"/><s n="c11c12"/><s n="sg"/>ũ</r> </p></e>
+      <e><p> <l>tũũ</l> <r><s n="dem"/><s n="c11c12"/><s n="pl"/>ũ</r> </p></e>
+      <e><p> <l>vaa</l> <r><s n="dem"/><s n="cA"/><s n="sg"/>ũ</r> </p></e>
+      <e><p> <l>kũũ</l> <r><s n="dem"/><s n="cB"/><s n="sg"/>ũ</r> </p></e>
+      <e><p> <l>aa</l> <r><s n="dem"/><s n="cC"/><s n="sg"/>ũ</r> </p></e>
+      <e><p> <l>ii</l> <r><s n="dem"/><s n="cD"/><s n="sg"/>ũ</r> </p></e>
+      <e><p> <l>ithi</l> <r><s n="dem"/><s n="cE"/><s n="sg"/>ũ</r> </p></e>
+      <e><p> <l>ũũ</l> <r><s n="dem"/><s n="cF"/><s n="sg"/>ũ</r> </p></e>
+    </pardef>
+    <pardef n="dem_u">
+      <e><p> <l>ũs</l> <r><s n="dem"/><s n="c1c2"/><s n="sg"/></r> </p></e>
+      <e><p> <l>as</l> <r><s n="dem"/><s n="c1c2"/><s n="pl"/></r> </p></e>
+      <e><p> <l>ũs</l> <r><s n="dem"/><s n="c3c4"/><s n="sg"/></r> </p></e>
+      <e><p> <l>ĩs</l> <r><s n="dem"/><s n="c3c4"/><s n="pl"/></r> </p></e>
+      <e><p> <l>yĩ</l> <r><s n="dem"/><s n="c5c6"/><s n="sg"/></r> </p></e>
+      <e><p> <l>as</l> <r><s n="dem"/><s n="c5c6"/><s n="pl"/></r> </p></e>
+      <e><p> <l>kĩ</l> <r><s n="dem"/><s n="c7c8"/><s n="sg"/></r> </p></e>
+      <e><p> <l>is</l> <r><s n="dem"/><s n="c7c8"/><s n="pl"/></r> </p></e>
+      <e><p> <l>ĩs</l> <r><s n="dem"/><s n="c9"/><s n="sg"/></r> </p></e>
+      <e><p> <l>ka</l> <r><s n="dem"/><s n="c11c12"/><s n="sg"/></r> </p></e>
+      <e><p> <l>tũ</l> <r><s n="dem"/><s n="c11c12"/><s n="pl"/></r> </p></e>
+      <e><p> <l>va</l> <r><s n="dem"/><s n="cA"/><s n="sg"/></r> </p></e>
+      <e><p> <l>kũ</l> <r><s n="dem"/><s n="cB"/><s n="sg"/></r> </p></e>
+      <e><p> <l>as</l> <r><s n="dem"/><s n="cC"/><s n="sg"/></r> </p></e>
+      <e><p> <l>ĩs</l> <r><s n="dem"/><s n="cD"/><s n="sg"/></r> </p></e>
+      <e><p> <l>is</l> <r><s n="dem"/><s n="cE"/><s n="sg"/></r> </p></e>
+      <e><p> <l>ũs</l> <r><s n="dem"/><s n="cF"/><s n="sg"/></r> </p></e>
+    </pardef>
 </pardefs>
 
   <section id="main" type="standard">
@@ -149,9 +188,13 @@
     <e lm="kĩvĩla"><par n="n__kI/i"/><i>vĩla</i></e>
     <e lm="kĩtuo"><par n="n__kI/i"/><i>tuo</i></e>
     <e lm="kĩwũ"><par n="n__kI/syI"/><i>wũ</i></e>
+
     <e lm="nĩnĩ"><par n="adj"/><i>nĩnĩ</i></e>
     <e lm="nene"><par n="adj"/><i>nene</i></e>
     <e lm="seo"><par n="adj_s/nz"/><i>eo</i></e>
+
+    <e lm="ũ"><par n="dem_U"/><i></i></e>
+    <e lm="u"><par n="dem_u"/><i>u</i></e>
   </section>
 
 </dictionary>

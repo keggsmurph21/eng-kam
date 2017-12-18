@@ -7,6 +7,7 @@
     <sdef n="sg"/>
     <sdef n="pl"/>
     <sdef n="a"/>
+    <sdef n="dem"/>
   </sdefs>
 
   <pardefs>
@@ -32,6 +33,9 @@
     </pardef>
     <pardef n="adj">
       <e><p> <l></l> <r><s n="a"/></r> </p></e>
+    </pardef>
+    <pardef n="dem">
+      <e><p> <l></l> <r><s n="dem"/></r> </p></e>
     </pardef>
   </pardefs>
 
@@ -75,9 +79,13 @@
     <e lm="chair"><i>chair</i><par n="n__s"/></e>
     <e lm="shoulder"><i>shoulder</i><par n="n__s"/></e>
     <e lm="water"><i>water</i><par n="n__s"/></e>
+
     <e lm="small"><i>small</i><par n="adj"/></e>
     <e lm="big"><i>big</i><par n="adj"/></e>
     <e lm="good"><i>good</i><par n="adj"/></e>
+
+    <e lm="this"><i>this</i><par n="dem"/></e>
+    <e lm="that"><i>that</i><par n="dem"/></e>
   </section>
 
 </dictionary>
