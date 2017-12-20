@@ -96,9 +96,9 @@
     <e lm="its"><i>its</i><par n="poss"/></e>
     <e lm="their"><i>their</i><par n="poss"/></e>
 
-    <!-- not ready for demonstratives yet
     <e lm="this"><i>this</i><par n="dem"/></e>
-    <e lm="that"><i>that</i><par n="dem"/></e> -->
+    <e lm="that"><i>that</i><par n="dem"/></e>
+    
   </section>
 
 </dictionary>
