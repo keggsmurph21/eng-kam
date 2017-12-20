@@ -165,24 +165,24 @@
       <e><p> <l>sy</l> <r><s n="poss"/><s n="cE"/><s n="sg"/>w</r> </p></e>
       <e><p> <l>w</l> <r><s n="poss"/><s n="cF"/><s n="sg"/>w</r> </p></e>
     </pardef>
-    <pardef n="poss__w/ma">
-      <e><p> <l>w</l> <r><s n="poss"/><s n="c1c2"/><s n="sg"/>w</r> </p></e>
-      <e><p> <l>ma</l> <r><s n="poss"/><s n="c1c2"/><s n="pl"/>w</r> </p></e>
-      <e><p> <l>w</l> <r><s n="poss"/><s n="c3c4"/><s n="sg"/>w</r> </p></e>
-      <e><p> <l>y</l> <r><s n="poss"/><s n="c3c4"/><s n="pl"/>w</r> </p></e>
-      <e><p> <l>y</l> <r><s n="poss"/><s n="c5c6"/><s n="sg"/>w</r> </p></e>
-      <e><p> <l>ma</l> <r><s n="poss"/><s n="c5c6"/><s n="pl"/>w</r> </p></e>
-      <e><p> <l>k</l> <r><s n="poss"/><s n="c7c8"/><s n="sg"/>w</r> </p></e>
-      <e><p> <l>s</l> <r><s n="poss"/><s n="c7c8"/><s n="pl"/>w</r> </p></e>
-      <e><p> <l>s</l> <r><s n="poss"/><s n="c9"/><s n="sg"/>w</r> </p></e>
-      <e><p> <l>k</l> <r><s n="poss"/><s n="c11c12"/><s n="sg"/>w</r> </p></e>
-      <e><p> <l>tw</l> <r><s n="poss"/><s n="c11c12"/><s n="pl"/>w</r> </p></e>
-      <e><p> <l>va</l> <r><s n="poss"/><s n="cA"/><s n="sg"/>w</r> </p></e>
-      <e><p> <l>kw</l> <r><s n="poss"/><s n="cB"/><s n="sg"/>w</r> </p></e>
-      <e><p> <l>ma</l> <r><s n="poss"/><s n="cC"/><s n="sg"/>w</r> </p></e>
-      <e><p> <l>y</l> <r><s n="poss"/><s n="cD"/><s n="sg"/>w</r> </p></e>
-      <e><p> <l>s</l> <r><s n="poss"/><s n="cE"/><s n="sg"/>w</r> </p></e>
-      <e><p> <l>w</l> <r><s n="poss"/><s n="cF"/><s n="sg"/>w</r> </p></e>
+    <pardef n="poss__wi/mai">
+      <e><p> <l>wi</l> <r><s n="poss"/><s n="c1c2"/><s n="sg"/>wi</r> </p></e>
+      <e><p> <l>mai</l> <r><s n="poss"/><s n="c1c2"/><s n="pl"/>wi</r> </p></e>
+      <e><p> <l>wi</l> <r><s n="poss"/><s n="c3c4"/><s n="sg"/>wi</r> </p></e>
+      <e><p> <l>yi</l> <r><s n="poss"/><s n="c3c4"/><s n="pl"/>wi</r> </p></e>
+      <e><p> <l>yi</l> <r><s n="poss"/><s n="c5c6"/><s n="sg"/>wi</r> </p></e>
+      <e><p> <l>mai</l> <r><s n="poss"/><s n="c5c6"/><s n="pl"/>wi</r> </p></e>
+      <e><p> <l>kaĩ</l> <r><s n="poss"/><s n="c7c8"/><s n="sg"/>wi</r> </p></e> <!-- irregular -->
+      <e><p> <l>si</l> <r><s n="poss"/><s n="c7c8"/><s n="pl"/>wi</r> </p></e>
+      <e><p> <l>si</l> <r><s n="poss"/><s n="c9"/><s n="sg"/>wi</r> </p></e>
+      <e><p> <l>ki</l> <r><s n="poss"/><s n="c11c12"/><s n="sg"/>wi</r> </p></e>
+      <e><p> <l>twi</l> <r><s n="poss"/><s n="c11c12"/><s n="pl"/>wi</r> </p></e>
+      <e><p> <l>vai</l> <r><s n="poss"/><s n="cA"/><s n="sg"/>wi</r> </p></e>
+      <e><p> <l>kwi</l> <r><s n="poss"/><s n="cB"/><s n="sg"/>wi</r> </p></e>
+      <e><p> <l>mai</l> <r><s n="poss"/><s n="cC"/><s n="sg"/>wi</r> </p></e>
+      <e><p> <l>yi</l> <r><s n="poss"/><s n="cD"/><s n="sg"/>wi</r> </p></e>
+      <e><p> <l>si</l> <r><s n="poss"/><s n="cE"/><s n="sg"/>wi</r> </p></e>
+      <e><p> <l>wi</l> <r><s n="poss"/><s n="cF"/><s n="sg"/>wi</r> </p></e>
     </pardef>
 </pardefs>
 
@@ -236,7 +236,7 @@
     <e lm="u"><par n="dem__u"/><i>u</i></e>
 
     <e lm="wakwa"><par n="poss__w/m"/><i>akwa</i></e>
-    <e lm="witũ"><par n="poss__w/ma"/><i>itũ</i></e>
+    <e lm="witũ"><par n="poss__wi/mai"/><i>tũ</i></e>
     <e lm="waku"><par n="poss__w/m"/><i>aku</i></e>
     <e lm="wenyu"><par n="poss__w/m"/><i>enyu</i></e>
     <e lm="wake"><par n="poss__w/m"/><i>ake</i></e>
