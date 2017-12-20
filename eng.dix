@@ -8,6 +8,7 @@
     <sdef n="pl"/>
     <sdef n="a"/>
     <sdef n="dem"/>
+    <sdef n="poss"/>
   </sdefs>
 
   <pardefs>
@@ -36,6 +37,9 @@
     </pardef>
     <pardef n="dem">
       <e><p> <l></l> <r><s n="dem"/></r> </p></e>
+    </pardef>
+    <pardef n="poss">
+      <e><p> <l></l> <r><s n="poss"/></r> </p></e>
     </pardef>
   </pardefs>
 
@@ -83,6 +87,14 @@
     <e lm="small"><i>small</i><par n="adj"/></e>
     <e lm="big"><i>big</i><par n="adj"/></e>
     <e lm="good"><i>good</i><par n="adj"/></e>
+
+    <e lm="my"><i>my</i><par n="poss"/></e>
+    <e lm="our"><i>our</i><par n="poss"/></e>
+    <e lm="your"><i>your</i><par n="poss"/></e>
+    <e lm="his"><i>his</i><par n="poss"/></e>
+    <e lm="her"><i>her</i><par n="poss"/></e>
+    <e lm="its"><i>its</i><par n="poss"/></e>
+    <e lm="their"><i>their</i><par n="poss"/></e>
 
     <!-- not ready for demonstratives yet
     <e lm="this"><i>this</i><par n="dem"/></e>

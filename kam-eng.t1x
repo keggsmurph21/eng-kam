@@ -8,6 +8,9 @@
     <def-cat n="adj">
       <cat-item tags="a.*"/>
     </def-cat>
+    <def-cat n="poss">
+      <cat-item tags="poss.*"/>
+    </def-cat>
   </section-def-cats>
 
   <section-def-attrs>
@@ -20,6 +23,9 @@
     </def-attr>
     <def-attr n="a_adj">
       <attr-item tags="a"/>
+    </def-attr>
+    <def-attr n="poss">
+      <attr-item tags="poss"/>
     </def-attr>
     <def-attr n="noun_class">
       <attr-item tags="c1c2"/>
@@ -65,6 +71,19 @@
            <lu>
              <clip pos="1" side="tl" part="lem"/>
              <clip pos="1" side="tl" part="a_adj"/>
+           </lu>
+         </out>
+       </action>
+    </rule>
+    <rule>
+       <pattern>
+         <pattern-item n="poss"/>
+       </pattern>
+       <action>
+         <out>
+           <lu>
+             <clip pos="1" side="tl" part="lem"/>
+             <clip pos="1" side="tl" part="poss"/>
            </lu>
          </out>
        </action>

@@ -8,4 +8,7 @@
 tests/*
 
 # binary files
-bin/*
+*.bil
+*.gen
+*.morf
+bin/*.t1x

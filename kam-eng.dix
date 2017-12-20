@@ -22,6 +22,7 @@
 
      <sdef n="a"/>
      <sdef n="dem"/>
+     <sdef n="poss"/>
    </sdefs>
 
    <section id="main" type="standard">
@@ -72,9 +73,18 @@
      <e><p><l>nene</l><r>big</r></p></e>
      <e><p><l>seo</l><r>good</r></p></e>
 
-     <!-- not ready for demonstratives yet
      <e><p><l>ũ</l><r>this</r></p></e>
-     <e><p><l>u</l><r>that</r></p></e> -->
+     <e><p><l>u</l><r>that</r></p></e>
+
+     <e><p><l>wakwa</l><r>my</r></p></e>
+     <e><p><l>witũ</l><r>our</r></p></e>
+     <e><p><l>waku</l><r>your</r></p></e>
+     <e><p><l>wenyu</l><r>your</r></p></e> <!-- add transfer rules so it knows to be pl -->
+     <e><p><l>wake</l><r>his</r></p></e>
+     <e><p><l>wake</l><r>her</r></p></e>
+     <e><p><l>wake</l><r>its</r></p></e>
+     <e><p><l>woo</l><r>their</r></p></e>
+
    </section>
 
 </dictionary>
