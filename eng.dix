@@ -52,7 +52,14 @@
   <section id="main" type="standard">
     <e lm="person"><i>p</i><par n="n__erson/eople"/></e>
     <e lm="builder"><i>builder</i><par n="n__s"/></e>
+
+    <!-- Noun classes 3, 4 -->
     <e lm="tree"><i>tree</i><par n="n__s"/></e>
+    <e lm="weaning"><i>weaning</i><par n="n__"></e>
+    <e lm="interpretation"><i>interpretation</i><par n="n__"></e>
+    <e lm="Baobab tree"><i>Baobab tree</i><par n="n__s"></e>
+    <e lm="handwriting"><i>handwriting</i><par n="n__s"></e>
+
     <e lm="fire"><i>fire</i><par n="n__s"/></e>
     <e lm="year"><i>year</i><par n="n__s"/></e>
 
