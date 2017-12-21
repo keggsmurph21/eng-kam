@@ -6,10 +6,10 @@
       <cat-item tags="n.*"/>
     </def-cat>
     <def-cat n="adj">
-      <cat-item tags="a.*"/>
+      <cat-item tags="a"/>
     </def-cat>
     <def-cat n="poss">
-      <cat-item tags="poss.*"/>
+      <cat-item tags="poss"/>
     </def-cat>
   </section-def-cats>
 
@@ -44,45 +44,75 @@
   </section-def-attrs>
 
   <section-def-vars>
+    <def-var n="nclass"/>
   </section-def-vars>
 
   <section-rules>
-    <rule>
-       <pattern>
-         <pattern-item n="noun"/>
-       </pattern>
-       <action>
-         <out>
-           <lu>
-             <clip pos="1" side="tl" part="noun_class"/>
-             <clip pos="1" side="tl" part="a_nom"/>
-             <clip pos="1" side="tl" part="number"/>
-             <clip pos="1" side="tl" part="lem"/>
-           </lu>
-         </out>
-       </action>
+
+    <rule comment="REGLA: poss+adj+noun -> noun+adj+poss">
+      <pattern>
+        <pattern-item n="poss"/>
+        <pattern-item n="adj"/>
+        <pattern-item n="noun"/>
+      </pattern>
+      <action>
+        <out>
+            <lu>
+              <clip pos="1" side="tl" part="lem"/>
+            </lu>
+        </out>
+      </action>
     </rule>
-    <rule>
-       <pattern>
-         <pattern-item n="adj"/>
-         <pattern-item n="noun"/>
-       </pattern>
-       <action>
-         <out>
-           <lu>
-             <clip pos="1" side="tl" part="lem"/>
-             <clip pos="1" side="tl" part="a_adj"/>
-           </lu>
-           <b />
-           <lu>
-             <clip pos="1" side="tl" part="noun_class"/>
-             <clip pos="1" side="tl" part="a_nom"/>
-             <clip pos="1" side="tl" part="number"/>
-             <clip pos="1" side="tl" part="lem"/>
-           </lu>
-         </out>
-       </action>
+
+<!--    <rule comment="REGLA: adj+noun -> noun+adj">
+      <pattern>
+        <pattern-item n="adj"/>
+        <pattern-item n="noun"/>
+      </pattern>
+      <action>
+        <out>
+            <lu>
+              <clip pos="2" side="tl" part="noun_class"/>
+              <clip pos="2" side="tl" part="a_nom"/>
+              <clip pos="2" side="tl" part="number"/>
+              <clip pos="2" side="tl" part="lem"/>
+            </lu>
+            <b />
+            <lu>
+              <clip pos="1" side="tl" part="a_adj"/>
+              <clip pos="2" side="tl" part="noun_class"/>
+              <clip pos="2" side="tl" part="number"/>
+              <clip pos="1" side="tl" part="lem"/>
+            </lu>
+        </out>
+      </action>
     </rule>
+
+    <rule comment="REGLA: poss+noun -> noun+poss">
+      <pattern>
+        <pattern-item n="poss"/>
+        <pattern-item n="noun"/>
+      </pattern>
+      <action>
+        <out>
+            <lu>
+              <clip pos="2" side="tl" part="noun_class"/>
+              <clip pos="2" side="tl" part="a_nom"/>
+              <clip pos="2" side="tl" part="number"/>
+              <clip pos="2" side="tl" part="lem"/>
+            </lu>
+            <b />
+            <lu>
+              <clip pos="1" side="tl" part="a_poss"/>
+              <clip pos="2" side="tl" part="noun_class"/>
+              <clip pos="2" side="tl" part="number"/>
+              <clip pos="1" side="tl" part="lem"/>
+            </lu>
+        </out>
+      </action>
+    </rule>-->
+
+
   </section-rules>
 
 </transfer>
