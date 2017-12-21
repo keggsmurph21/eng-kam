@@ -191,7 +191,14 @@
   <section id="main" type="standard">
     <e lm="mũndũ"><par n="n__mU/a"/><i>ndũ</i></e>
     <e lm="mwaki"><par n="n__mw/-"/><i>aki</i></e>
+
+    <!-- Noun classes 3, 4 -->
     <e lm="mũte"><par n="n__mU/mI"/><i>te</i></e>
+    <e lm="mũaĩo"><par n="n__mU/mI"/><i>aĩo</i></e>
+    <e lm="mũalyũlo"><par n="n__mU/mI"/><i>alyũlo</i></e>
+    <e lm="mũamba"><par n="n__mU/mI"/><i>amba</i></e>
+    <e lm="mũandĩko"><par n="n__mU/mI"/><i>andĩko</i></e>
+
     <e lm="mwaki"><par n="n__mw/I"/><i>aki</i></e>
     <e lm="mwaka"><par n="n__mw/my"/><i>aka</i></e>
 

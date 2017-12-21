@@ -20,7 +20,14 @@
    <section id="main" type="standard">
      <e><p><l>mũndũ<s n="c1c2"/></l><r>person</r></p></e>
      <e><p><l>mwaki<s n="c1c2"/></l><r>builder</r></p></e>
+
+     <!-- Noun classes 3, 4 -->
      <e><p><l>mũte<s n="c3c4"/></l><r>tree</r></p></e>
+     <e><p><l>mũaĩo<s n="c3c4"/></l><r>weaning</r></p></e>
+     <e><p><l>mũalyũlo<s n="c3c4"/></l><r>interpretation</r></p></e>
+     <e><p><l>mũamba<s n="c3c4"/></l><r>Baobab tree</r></p></e>
+     <e><p><l>mũandĩko<s n="c3c4"/></l><r>handwriting</r></p></e>
+
      <e><p><l>mwaki<s n="c3c4"/></l><r>fire</r></p></e>
      <e><p><l>mwaka<s n="c3c4"/></l><r>year</r></p></e>
 
