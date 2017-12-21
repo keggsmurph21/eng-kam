@@ -4,11 +4,14 @@
 
   <sdefs>
     <sdef n="n"/>
+    <sdef n="a"/>
+    <sdef n="prn"/>
+    <sdef n="poss"/>
+
     <sdef n="sg"/>
     <sdef n="pl"/>
-    <sdef n="a"/>
-    <sdef n="dem"/>
-    <sdef n="poss"/>
+    <sdef n="prox"/>
+    <sdef n="dist"/>
   </sdefs>
 
   <pardefs>
@@ -36,10 +39,13 @@
       <e><p> <l></l> <r><s n="a"/></r> </p></e>
     </pardef>
     <pardef n="dem">
-      <e><p> <l></l> <r><s n="dem"/></r> </p></e>
+      <e><p> <l>this</l> <r>dem_pr<s n="prn"/><s n="prox"/><s n="sg"/></r> </p></e>
+      <e><p> <l>these</l> <r>dem_pr<s n="prn"/><s n="prox"/><s n="pl"/></r> </p></e>
+      <e><p> <l>that</l> <r>dem_pr<s n="prn"/><s n="dist"/><s n="sg"/></r> </p></e>
+      <e><p> <l>those</l> <r>dem_pr<s n="prn"/><s n="dist"/><s n="pl"/></r> </p></e>
     </pardef>
     <pardef n="poss">
-      <e><p> <l></l> <r><s n="poss"/></r> </p></e>
+      <e><p> <l></l> <r><s n="prn"/><s n="poss"/></r> </p></e>
     </pardef>
   </pardefs>
 
@@ -88,6 +94,8 @@
     <e lm="big"><i>big</i><par n="adj"/></e>
     <e lm="good"><i>good</i><par n="adj"/></e>
 
+    <e lm="dem_pr"><i></i><par n="dem"/></e>
+
     <e lm="my"><i>my</i><par n="poss"/></e>
     <e lm="our"><i>our</i><par n="poss"/></e>
     <e lm="your"><i>your</i><par n="poss"/></e>
@@ -96,9 +104,6 @@
     <e lm="its"><i>its</i><par n="poss"/></e>
     <e lm="their"><i>their</i><par n="poss"/></e>
 
-    <e lm="this"><i>this</i><par n="dem"/></e>
-    <e lm="that"><i>that</i><par n="dem"/></e>
-    
   </section>
 
 </dictionary>

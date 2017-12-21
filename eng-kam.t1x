@@ -9,7 +9,11 @@
       <cat-item tags="a"/>
     </def-cat>
     <def-cat n="poss">
-      <cat-item tags="poss"/>
+      <cat-item tags="prn.poss"/>
+    </def-cat>
+    <def-cat n="dem">
+      <cat-item tags="prn.prox.*"/>
+      <cat-item tags="prn.dist.*"/>
     </def-cat>
   </section-def-cats>
 
@@ -24,8 +28,15 @@
     <def-attr n="a_adj">
       <attr-item tags="a"/>
     </def-attr>
+    <def-attr n="a_prn">
+      <attr-item tags="prn"/>
+    </def-attr>
     <def-attr n="a_poss">
       <attr-item tags="poss"/>
+    </def-attr>
+    <def-attr n="a_dem">
+      <attr-item tags="prox"/>
+      <attr-item tags="dist"/>
     </def-attr>
     <def-attr n="noun_class">
       <attr-item tags="c1c2"/>
@@ -72,9 +83,68 @@
             </lu>
             <b />
             <lu>
+              <clip pos="1" side="tl" part="a_prn"/>
               <clip pos="1" side="tl" part="a_poss"/>
               <clip pos="3" side="tl" part="noun_class"/>
               <clip pos="3" side="tl" part="number"/>
+              <clip pos="1" side="tl" part="lem"/>
+            </lu>
+        </out>
+      </action>
+    </rule>
+
+    <rule comment="REGLA: dem+adj+noun -> noun+adj+dem">
+      <pattern>
+        <pattern-item n="dem"/>
+        <pattern-item n="adj"/>
+        <pattern-item n="noun"/>
+      </pattern>
+      <action>
+        <out>
+            <lu>
+              <clip pos="3" side="tl" part="noun_class"/>
+              <clip pos="3" side="tl" part="a_nom"/>
+              <clip pos="3" side="tl" part="number"/>
+              <clip pos="3" side="tl" part="lem"/>
+            </lu>
+            <b />
+            <lu>
+              <clip pos="2" side="tl" part="a_adj"/>
+              <clip pos="3" side="tl" part="noun_class"/>
+              <clip pos="3" side="tl" part="number"/>
+              <clip pos="2" side="tl" part="lem"/>
+            </lu>
+            <b />
+            <lu>
+              <clip pos="1" side="tl" part="a_prn"/>
+              <clip pos="1" side="tl" part="a_dem"/>
+              <clip pos="3" side="tl" part="noun_class"/>
+              <clip pos="3" side="tl" part="number"/>
+              <clip pos="1" side="tl" part="lem"/>
+            </lu>
+        </out>
+      </action>
+    </rule>
+
+    <rule comment="REGLA: dem+noun -> noun+dem">
+      <pattern>
+        <pattern-item n="dem"/>
+        <pattern-item n="noun"/>
+      </pattern>
+      <action>
+        <out>
+            <lu>
+              <clip pos="2" side="tl" part="noun_class"/>
+              <clip pos="2" side="tl" part="a_nom"/>
+              <clip pos="2" side="tl" part="number"/>
+              <clip pos="2" side="tl" part="lem"/>
+            </lu>
+            <b />
+            <lu>
+              <clip pos="1" side="tl" part="a_prn"/>
+              <clip pos="1" side="tl" part="a_dem"/>
+              <clip pos="2" side="tl" part="noun_class"/>
+              <clip pos="2" side="tl" part="number"/>
               <clip pos="1" side="tl" part="lem"/>
             </lu>
         </out>
@@ -120,6 +190,7 @@
             </lu>
             <b />
             <lu>
+              <clip pos="1" side="tl" part="a_prn"/>
               <clip pos="1" side="tl" part="a_poss"/>
               <clip pos="2" side="tl" part="noun_class"/>
               <clip pos="2" side="tl" part="number"/>
