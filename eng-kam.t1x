@@ -58,13 +58,30 @@
       <action>
         <out>
             <lu>
+              <clip pos="3" side="tl" part="noun_class"/>
+              <clip pos="3" side="tl" part="a_nom"/>
+              <clip pos="3" side="tl" part="number"/>
+              <clip pos="3" side="tl" part="lem"/>
+            </lu>
+            <b />
+            <lu>
+              <clip pos="2" side="tl" part="a_adj"/>
+              <clip pos="3" side="tl" part="noun_class"/>
+              <clip pos="3" side="tl" part="number"/>
+              <clip pos="2" side="tl" part="lem"/>
+            </lu>
+            <b />
+            <lu>
+              <clip pos="1" side="tl" part="a_poss"/>
+              <clip pos="3" side="tl" part="noun_class"/>
+              <clip pos="3" side="tl" part="number"/>
               <clip pos="1" side="tl" part="lem"/>
             </lu>
         </out>
       </action>
     </rule>
 
-<!--    <rule comment="REGLA: adj+noun -> noun+adj">
+    <rule comment="REGLA: adj+noun -> noun+adj">
       <pattern>
         <pattern-item n="adj"/>
         <pattern-item n="noun"/>
@@ -110,7 +127,7 @@
             </lu>
         </out>
       </action>
-    </rule>-->
+    </rule>
 
 
   </section-rules>
