@@ -203,9 +203,10 @@
     <e lm="mwaka"><par n="n__mw/my"/><i>aka</i></e>
 
     <!-- Noun classes 5, 6 -->
-    <e lm="ĩtema"><par n="n__I/ma"/><i>tema</i></e>
-    <e lm="ĩtumbe"><par n="n__I/ma"/><i>tumbe</i></e>
+    <e lm="ĩamũko"><par n="n__I/ma"/><i>amũko</i></e>
     <e lm="ĩana"><par n="n__I/ma"/><i>ana</i></e>
+    <e lm="ĩandasi"><par n="n__I/ma"/><i>andasi</i></e>
+    <e lm="ĩandĩko"><par n="n__I/ma"/><i>andĩko</i></e>
     <e lm="ĩandi"><par n="n__I/ma"/><i>andi</i></e>
     <e lm="ĩandiko"><par n="n__I/ma"/><i>andiko</i></e>
     <e lm="ĩanga"><par n="n__I/ma"/><i>anga</i></e>
@@ -213,13 +214,14 @@
     <e lm="ĩelo"><par n="n__I/ma"/><i>elo</i></e>
     <e lm="ĩema"><par n="n__I/ma"/><i>ema</i></e>
     <e lm="ĩembe"><par n="n__I/ma"/><i>embe</i></e>
+    <e lm="ĩeyo"><par n="n__I/ma"/><i>eyo</i></e>
     <e lm="ĩia"><par n="n__I/ma"/><i>ia</i></e>
     <e lm="ĩika"><par n="n__I/ma"/><i>ika</i></e>
     <e lm="ĩiko"><par n="n__I/ma"/><i>iko</i></e>
     <e lm="ĩima"><par n="n__I/ma"/><i>ima</i></e>
     <e lm="ĩindi"><par n="n__I/ma"/><i>indi</i></e>
     <e lm="ĩiu"><par n="n__I/ma"/><i>iu</i></e>
-    <e lm="ĩkali"><par n="n__I/ma"/><i>kali</i></e>
+    <e lm="ĩkalatasi"><par n="n__I/ma"/><i>kali</i></e>
     <e lm="ĩkalĩ"><par n="n__I/ma"/><i>kalĩ</i></e>
     <e lm="ĩkalũ"><par n="n__I/ma"/><i>kalũ</i></e>
     <e lm="ĩkanda"><par n="n__I/ma"/><i>kanda</i></e>
@@ -227,28 +229,25 @@
     <e lm="ĩkanisa"><par n="n__I/ma"/><i>kanisa</i></e>
     <e lm="ĩkanya"><par n="n__I/ma"/><i>kanya</i></e>
     <e lm="ĩkaya"><par n="n__I/ma"/><i>kaya</i></e>
+    <e lm="ĩkeleko"><par n="n__I/ma"/><i>keleko</i></e>
     <e lm="ĩkene"><par n="n__I/ma"/><i>kene</i></e>
     <e lm="ĩkesa"><par n="n__I/ma"/><i>kesa</i></e>
-    <e lm="ĩamũko"><par n="n__I/ma"/><i>amũko</i></e>
-    <e lm="ĩandasi"><par n="n__I/ma"/><i>andasi</i></e>
-    <e lm="ĩandĩko"><par n="n__I/ma"/><i>andĩko</i></e>
-    <e lm="ĩia"><par n="n__I/ma"/><i>ia</i></e>
-    <e lm="ĩeyo"><par n="n__I/ma"/><i>eyo</i></e>
-    <e lm="ĩkeleko"><par n="n__I/ma"/><i>keleko</i></e>
     <e lm="ĩkooa"><par n="n__I/ma"/><i>kooa</i></e>
-    <e lm="ĩsembo"><par n="n__I/ma"/><i>sembo</i></e>
     <e lm="ĩlovoto"><par n="n__I/ma"/><i>lovoto</i></e>
+    <e lm="ĩsembo"><par n="n__I/ma"/><i>sembo</i></e>
     <e lm="ĩseso"><par n="n__I/ma"/><i>seso</i></e>
     <e lm="ĩsindano"><par n="n__I/ma"/><i>sindano</i></e>
     <e lm="ĩsindano ma wanake"><par n="n__I/ma"/><i>sindano ma wanake</i></e>
     <e lm="ĩsomo"><par n="n__I/ma"/><i>somo</i></e>
+    <e lm="ĩtema"><par n="n__I/ma"/><i>tema</i></e>
     <e lm="ĩthaa"><par n="n__I/ma"/><i>thaa</i></e>
-    <e lm="ĩvive"><par n="n__I/ma"/><i>vive</i></e>
     <e lm="ĩthaũ"><par n="n__I/ma"/><i>thaũ</i></e>
     <e lm="ĩtialyo"><par n="n__I/ma"/><i>tialyo</i></e>
     <e lm="ĩtukũ"><par n="n__I/ma"/><i>tukũ</i></e>
+    <e lm="ĩtumbe"><par n="n__I/ma"/><i>tumbe</i></e>
     <e lm="ĩuta"><par n="n__I/ma"/><i>uta</i></e>
     <e lm="ĩvia"><par n="n__I/ma"/><i>via</i></e>
+    <e lm="ĩvive"><par n="n__I/ma"/><i>vive</i></e>
     <e lm="ĩwa"><par n="n__I/ma"/><i>wa</i></e>
 
     <e lm="yaka"><par n="n__y/m"/><i>aka</i></e>

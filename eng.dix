@@ -64,9 +64,10 @@
     <e lm="year"><i>year</i><par n="n__s"/></e>
 
     <!-- Noun classes 5, 6 -->
-    <e lm="liver"><i>liver</i><par n="n__s"/></e>
-    <e lm="egg"><i>egg</i><par n="n__s"/></e>
+    <e lm="good morning"><i>good morning</i><par n="n__s"/></e>
     <e lm="hundred"><i>hundred</i><par n="n__s"/></e>
+    <e lm="bun"><i>bun</i><par n="n__s"/></e>
+    <e lm="writing"><i>writing</i><par n="n__s"/></e>
     <e lm="stiffness"><i>stiffness</i><par n="n__-/-"/></e>
     <e lm="section"><i>section</i><par n="n__s"/></e>
     <e lm="letter"><i>letter</i><par n="n__s"/></e>
@@ -76,6 +77,8 @@
     <e lm="tent"><i>tent</i><par n="n__s"/></e>
     <e lm="hoe"><i>hoe</i><par n="n__s"/></e>
     <e lm="mango"><i>mango</i><par n="n__s"/></e>
+    <e lm="tooth"><i>t</i><par n="n__ooth/eeth"/></e>
+    <!-- <e lm="scarecrow"><i>scarecrow</i><par n="n__s"/></e> -->
     <e lm="lake"><i>lake</i><par n="n__s"/></e>
     <e lm="milk"><i>milk</i><par n="n__s"/></e>
     <e lm="weed"><i>weed</i><par n="n__s"/></e>
@@ -95,29 +98,26 @@
     <e lm="church"><i>church</i><par n="n__es"/></e>
     <e lm="eggshell"><i>eggshell</i><par n="n__s"/></e>
     <e lm="outcry"><i>outcry</i><par n="n__s"/></e>
+    <e lm="dreg"><i>dreg</i><par n="n__s"/></e>
     <e lm="bird trap"><i>bird trap</i><par n="n__s"/></e>
     <e lm="ostrich egg"><i>ostrich egg</i><par n="n__s"/></e>
     <e lm="chisel"><i>chisel</i><par n="n__s"/></e>
-    <e lm="good morning"><i>good morning</i><par n="n__s"/></e>
-    <e lm="bun"><i>bun</i><par n="n__s"/></e>
-    <e lm="writing"><i>writing</i><par n="n__s"/></e>
-    <e lm="scarecrow"><i>scarecrow</i><par n="n__s"/></e>
-    <e lm="tooth"><i>t</i><par n="n__ooth/eeth"/></e>
-    <e lm="dreg"><i>dreg</i><par n="n__s"/></e>
     <e lm="cough"><i>cough</i><par n="n__s"/></e>
-    <e lm="track meet"><i>track meet</i><par n="n__s"/></e>
     <e lm="droplet"><i>droplet</i><par n="n__s"/></e>
+    <e lm="track meet"><i>track meet</i><par n="n__s"/></e>
     <e lm="honeycomb"><i>honeycomb</i><par n="n__s"/></e>
     <e lm="competition"><i>competition</i><par n="n__s"/></e>
     <e lm="beauty pageant"><i>beauty pageant</i><par n="n__s"/></e>
     <e lm="lesson"><i>lesson</i><par n="n__s"/></e>
-    <e lm="decoration"><i>decoration</i><par n="n__s"/></e>
+    <e lm="liver"><i>liver</i><par n="n__s"/></e>
     <e lm="sport"><i>sport</i><par n="n__s"/></e>
     <e lm="banter"><i>banter</i><par n="n__s"/></e>
     <e lm="leftover"><i>leftover</i><par n="n__s"/></e>
     <e lm="day"><i>day</i><par n="n__s"/></e>
+    <e lm="egg"><i>egg</i><par n="n__s"/></e>
     <e lm="butter"><i>butter</i><par n="n__s"/></e>
-    <e lm="pus"><i>pusses</i><par n="n__-/-"/></e>
+    <e lm="pus"><i>pus</i><par n="n__-/-"/></e>
+    <e lm="decoration"><i>decoration</i><par n="n__s"/></e>
 
     <e lm="branch"><i>branch</i><par n="n__es"/></e>
     <e lm="cassava"><i>cassava</i><par n="n__s"/></e>

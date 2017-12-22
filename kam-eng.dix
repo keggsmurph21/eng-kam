@@ -32,9 +32,10 @@
      <e><p><l>mwaka<s n="c3c4"/></l><r>year</r></p></e>
 
      <!-- Noun classes 5, 6 -->
-     <e><p><l>ĩtema<s n="c5c6"/></l><r>liver</r></p></e>
-     <e><p><l>ĩtumbe<s n="c5c6"/></l><r>egg</r></p></e>
+     <e><p><l>ĩamũko<s n="c5c6"/></l><r>good morning</r></p></e>
      <e><p><l>ĩana<s n="c5c6"/></l><r>hundred</r></p></e>
+     <e><p><l>ĩandasi<s n="c5c6"/></l><r>bun</r></p></e>
+     <e><p><l>ĩandĩko<s n="c5c6"/></l><r>writing</r></p></e>
      <e><p><l>ĩandi<s n="c5c6"/></l><r>stiffness</r></p></e>
      <e><p><l>ĩandiko<s n="c5c6"/></l><r>section</r></p></e>
      <e><p><l>ĩandiko<s n="c5c6"/></l><r>letter</r></p></e>
@@ -44,6 +45,8 @@
      <e><p><l>ĩema<s n="c5c6"/></l><r>tent</r></p></e>
      <e><p><l>ĩembe<s n="c5c6"/></l><r>hoe</r></p></e>
      <e><p><l>ĩembe<s n="c5c6"/></l><r>mango</r></p></e>
+     <e><p><l>ĩeyo<s n="c5c6"/></l><r>tooth</r></p></e>
+     <!-- <e><p><l>ĩia<s n="c5c6"/></l><r>scarecrow</r></p></e> -->
      <e><p><l>ĩia<s n="c5c6"/></l><r>lake</r></p></e>
      <e><p><l>ĩia<s n="c5c6"/></l><r>milk</r></p></e>
      <e><p><l>ĩia<s n="c5c6"/></l><r>weed</r></p></e>
@@ -55,7 +58,7 @@
      <e><p><l>ĩindi<s n="c5c6"/></l><r>ditch</r></p></e>
      <e><p><l>ĩindi<s n="c5c6"/></l><r>corncob</r></p></e>
      <e><p><l>ĩiu<s n="c5c6"/></l><r>banana</r></p></e>
-     <e><p><l>ĩkali<s n="c5c6"/></l><r>paper</r></p></e>
+     <e><p><l>ĩkalatasi<s n="c5c6"/></l><r>paper</r></p></e>
      <e><p><l>ĩkalĩ<s n="c5c6"/></l><r>brick</r></p></e>
      <e><p><l>ĩkalũ<s n="c5c6"/></l><r>temple</r></p></e>
      <e><p><l>ĩkanda<s n="c5c6"/></l><r>rope</r></p></e>
@@ -63,30 +66,27 @@
      <e><p><l>ĩkanisia<s n="c5c6"/></l><r>church</r></p></e>
      <e><p><l>ĩkanya<s n="c5c6"/></l><r>eggshell</r></p></e>
      <e><p><l>ĩkaya<s n="c5c6"/></l><r>outcry</r></p></e>
+     <e><p><l>ĩkeleko<s n="c5c6"/></l><r>dreg</r></p></e>
      <e><p><l>ĩkenge<s n="c5c6"/></l><r>bird trap</r></p></e>
      <e><p><l>ĩkenge<s n="c5c6"/></l><r>ostrich egg</r></p></e>
      <e><p><l>ĩkesa<s n="c5c6"/></l><r>chisel</r></p></e>
-     <e><p><l>ĩamũko<s n="c5c6"/></l><r>good morning</r></p></e>
-     <e><p><l>ĩandasi<s n="c5c6"/></l><r>bun</r></p></e>
-     <e><p><l>ĩandĩko<s n="c5c6"/></l><r>writing</r></p></e>
-     <e><p><l>ĩia<s n="c5c6"/></l><r>scarecrow</r></p></e>
-     <e><p><l>ĩeyo<s n="c5c6"/></l><r>tooth</r></p></e>
-     <e><p><l>ĩkeleko<s n="c5c6"/></l><r>dreg</r></p></e>
      <e><p><l>ĩkooa<s n="c5c6"/></l><r>cough</r></p></e>
-     <e><p><l>ĩsembo<s n="c5c6"/></l><r>track meet</r></p></e>
      <e><p><l>ĩlovoto<s n="c5c6"/></l><r>droplet</r></p></e>
+     <e><p><l>ĩsembo<s n="c5c6"/></l><r>track meet</r></p></e>
      <e><p><l>ĩseso<s n="c5c6"/></l><r>honeycomb</r></p></e>
      <e><p><l>ĩsindano<s n="c5c6"/></l><r>competition</r></p></e>
      <e><p><l>ĩsindano ma wanake<s n="c5c6"/></l><r>beauty pageant</r></p></e>
      <e><p><l>ĩsomo<s n="c5c6"/></l><r>lesson</r></p></e>
+     <e><p><l>ĩtema<s n="c5c6"/></l><r>liver</r></p></e>
      <e><p><l>ĩthaa<s n="c5c6"/></l><r>decoration</r></p></e>
-     <e><p><l>ĩvive<s n="c5c6"/></l><r>decoration</r></p></e>
      <e><p><l>ĩthaũ<s n="c5c6"/></l><r>sport</r></p></e>
      <e><p><l>ĩthaũ<s n="c5c6"/></l><r>banter</r></p></e>
      <e><p><l>ĩtialyo<s n="c5c6"/></l><r>leftover</r></p></e>
      <e><p><l>ĩtukũ<s n="c5c6"/></l><r>day</r></p></e>
+     <e><p><l>ĩtumbe<s n="c5c6"/></l><r>egg</r></p></e>
      <e><p><l>ĩuta<s n="c5c6"/></l><r>butter</r></p></e>
      <e><p><l>ĩvia><s n="c5c6"/></l><r>pus</r></p></e>
+     <e><p><l>ĩvive<s n="c5c6"/></l><r>decoration</r></p></e>
      <e><p><l>ĩwa><s n="c5c6"/></l><r>honeycomb</r></p></e>
 
      <e><p><l>yaka<s n="c5c6"/></l><r>branch</r></p></e>
