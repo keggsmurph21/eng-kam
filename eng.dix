@@ -50,6 +50,7 @@
   </pardefs>
 
   <section id="main" type="standard">
+    <!-- Noun classes 1, 2 -->
     <e lm="person"><i>p</i><par n="n__erson/eople"/></e>
     <e lm="builder"><i>builder</i><par n="n__s"/></e>
 
@@ -124,11 +125,13 @@
     <e lm="cassava"><i>cassava</i><par n="n__s"/></e>
     <e lm="soul"><i>soul</i><par n="n__s"/></e>
 
+    <!-- Noun class 7, 8 -->
     <e lm="leopard"><i>leopard</i><par n="n__s"/></e>
     <e lm="chair"><i>chair</i><par n="n__s"/></e>
     <e lm="shoulder"><i>shoulder</i><par n="n__s"/></e>
     <e lm="water"><i>water</i><par n="n__s"/></e>
 
+    <!-- Adjectives -->
     <e lm="small"><i>small</i><par n="adj"/></e>
     <e lm="big"><i>big</i><par n="adj"/></e>
     <e lm="good"><i>good</i><par n="adj"/></e>

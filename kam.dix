@@ -189,6 +189,7 @@
 </pardefs>
 
   <section id="main" type="standard">
+    <!-- Noun classes 1, 2 -->
     <e lm="mũndũ"><par n="n__mU/a"/><i>ndũ</i></e>
     <e lm="mwaki"><par n="n__mw/-"/><i>aki</i></e>
 
@@ -255,11 +256,13 @@
     <e lm="yanga"><par n="n__y/m"/><i>anga</i></e>
     <e lm="thayũ"><par n="n__-/ma"/><i>thayũ</i></e>
 
+    <!-- Noun classes 7, 8 -->
     <e lm="kĩkoyo"><par n="n__kI/i"/><i>koyo</i></e>
     <e lm="kĩvĩla"><par n="n__kI/i"/><i>vĩla</i></e>
     <e lm="kĩtuo"><par n="n__kI/i"/><i>tuo</i></e>
     <e lm="kĩwũ"><par n="n__kI/syI"/><i>wũ</i></e>
 
+    <!-- Adjectives -->
     <e lm="nĩnĩ"><par n="adj__"/><i>nĩnĩ</i></e>
     <e lm="nene"><par n="adj__"/><i>nene</i></e>
     <e lm="seo"><par n="adj__s/nz"/><i>eo</i></e>
