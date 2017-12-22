@@ -1,7 +1,7 @@
 # eng-kam
 Kikamba
 
-                            apertium-eng-kam
+eng-kam
 ===============================================================================
 
 This is an Apertium bilingual language package for English-Kikamba. What
@@ -9,11 +9,9 @@ you can use this language package for:
 
 * Morphological analysis of English/Kikamba
 * Morphological generation of English/Kikamba
-* Translation between English and Kikamba (currently supports translations of noun phrases the following form:
+* Translation between English and Kikamba, currently supports translations of noun phrases the following form:
+  - {DetPrN/PossPrN}{Adj}{Noun} <-> {Noun}{Adj}{DetPrN/PossPrN}
 
-    {DetPrN/PossPrN}{Adj}{Noun} <-> {Noun}{Adj}{DetPrN/PossPrN}
-
-  )
 
 Requirements
 ===============================================================================
@@ -41,16 +39,13 @@ If you are in the source directory after building, the following
 commands should work:
 
 $  ./translate.sh
-
-Translate Kikamba NPs into English NPs
+- Translate Kikamba NPs into English NPs
 
 $ ./translate.sh -e
-
-Translate English NPs into Kikamba NPs
+- Translate English NPs into Kikamba NPs
 
 $ ./translate.sh --help
-
-For help with arguments
+- For help with arguments
 
 Currently supported arguments:
 * 0:    force a one-time translation in the opposite direction
@@ -80,24 +75,6 @@ Files and data
   - Tagging disambiguation tool
 * translate.sh
   - Executable file for translations
-
-For more information
-===============================================================================
-
-* http://wiki.apertium.org/wiki/Installation
-* http://wiki.apertium.org/wiki/apertium-kik
-* http://wiki.apertium.org/wiki/Using_an_lttoolbox_dictionary
-
-Help and support
-===============================================================================
-
-If you need help using this language pair or data, you can contact:
-
-* Developers: itang1@swarthmore.edu & kmurphy4@swarthmore.edu
-* Mailing list: apertium-stuff@lists.sourceforge.net
-* IRC: #apertium on irc.freenode.net
-
-See also the file AUTHORS included in this distribution.
 
 Kikamba lemmas
 ===============================================================================
@@ -282,3 +259,19 @@ English lemmas
 * her
 * its
 * their
+
+For more information
+===============================================================================
+
+* http://wiki.apertium.org/wiki/Installation
+* http://wiki.apertium.org/wiki/apertium-kik
+* http://wiki.apertium.org/wiki/Using_an_lttoolbox_dictionary
+
+Help and support
+===============================================================================
+
+If you need help using this language pair or data, you can contact:
+
+* Developers: [Irene](mailto:itang1@swarthmore.edu) & [Kevin](mailto:kmurphy4@swarthmore.edu)
+* Mailing list: [apertium-stuff@lists.sourceforge.net](mailto:apertium-stuff@lists.sourceforge.net)
+* IRC: #apertium on [irc.freenode.net](freenode.net)
