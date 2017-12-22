@@ -31,6 +31,10 @@
       <e><p> <l></l> <r><s n="n"/><s n="sg"/></r> </p></e>
       <e><p> <l>es</l> <r><s n="n"/><s n="pl"/></r> </p></e>
     </pardef>
+    <pardef n="n__ies">
+      <e><p> <l>y</l> <r>y<s n="n"/><s n="sg"/></r> </p></e>
+      <e><p> <l>ies</l> <r>y<s n="n"/><s n="pl"/></r> </p></e>
+    </pardef>
     <pardef n="n__-/-">
       <e><p> <l></l> <r><s n="n"/><s n="sg"/></r> </p></e>
       <e><p> <l></l> <r><s n="n"/><s n="pl"/></r> </p></e>
