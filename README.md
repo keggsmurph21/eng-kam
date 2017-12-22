@@ -9,9 +9,7 @@ you can use this language package for:
 
 * Morphological analysis of English/Kikamba
 * Morphological generation of English/Kikamba
-* Translation between English and Kikamba
-
-  (currently supports translations of noun phrases the following form:
+* Translation between English and Kikamba (currently supports translations of noun phrases the following form:
 
     {DetPrN/PossPrN}{Adj}{Noun} <-> {Noun}{Adj}{DetPrN/PossPrN}
 
@@ -33,6 +31,7 @@ Compiling
 Given the requirements being installed, you should be able to just run:
 
 $ ./translate.sh --build
+
 $ sudo chmod +x translate.sh
 
 Testing
@@ -42,12 +41,15 @@ If you are in the source directory after building, the following
 commands should work:
 
 $  ./translate.sh
+
 Translate Kikamba NPs into English NPs
 
 $ ./translate.sh -e
+
 Translate English NPs into Kikamba NPs
 
 $ ./translate.sh --help
+
 For help with arguments
 
 Currently supported arguments:
@@ -60,15 +62,24 @@ Currently supported arguments:
 Files and data
 ===============================================================================
 
-* eng.dix                        - Monolingual English dictionary
-* eng-kam.t1x                    - English -> Kikamba structural transfer rules
-* kam.dix                        - Monolingual Kikamba dictionary
-* kam-eng.dix                    - Bilingual Kikamba & English dictionary
-* kam-eng.t1x                    - Kikamba -> English structural transfer rules
-* nc-morphology.pdf              - Morphology paper on which this tool is based
-* pretagger.py                   - Pretagger helper tool
-* tagger.awk                     - Tagging disambiguation tool
-* translate.sh                   - Executable file for translations
+* eng.dix
+  - Monolingual English dictionary
+* eng-kam.t1x
+  - English -> Kikamba structural transfer rules
+* kam.dix
+  - Monolingual Kikamba dictionary
+* kam-eng.dix
+  - Bilingual Kikamba & English dictionary
+* kam-eng.t1x
+  - Kikamba -> English structural transfer rules
+* nc-morphology.pdf
+  - Morphology paper on which this tool is based
+* pretagger.py
+  - Pretagger helper tool
+* tagger.awk
+  - Tagging disambiguation tool
+* translate.sh
+  - Executable file for translations
 
 For more information
 ===============================================================================
