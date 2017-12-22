@@ -1,6 +1,3 @@
-# eng-kam
-Kikamba
-
 eng-kam
 ===============================================================================
 
@@ -18,8 +15,8 @@ Requirements
 
 You will need the following software installed:
 
-* lttoolbox (>= 3.3.0)
-* apertium (>= 3.3.0)
+* `lttoolbox` (>= 3.3.0)
+* `apertium` (>= 3.3.0)
 
 If this does not make any sense, we recommend you look at: www.apertium.org
 
@@ -28,9 +25,9 @@ Compiling
 
 Given the requirements being installed, you should be able to just run:
 
-$ ./translate.sh --build
+`$ ./translate.sh --build`
 
-$ sudo chmod +x translate.sh
+`$ sudo chmod +x translate.sh`
 
 Testing
 ===============================================================================
@@ -38,42 +35,42 @@ Testing
 If you are in the source directory after building, the following
 commands should work:
 
-$  ./translate.sh
+`$  ./translate.sh`
 - Translate Kikamba NPs into English NPs
 
-$ ./translate.sh -e
+`$ ./translate.sh -e`
 - Translate English NPs into Kikamba NPs
 
-$ ./translate.sh --help
+`$ ./translate.sh --help`
 - For help with arguments
 
 Currently supported arguments:
-* 0:    force a one-time translation in the opposite direction
-* 1:    show morphological analysis
-* 2:    show morphological analysis and pretagging
-* 3:    show morphological analysis, pretagging, and disambiguation
-* 4:    show transferred but ungenerated morphemes
+* `0`:    force a one-time translation in the opposite direction
+* `1`:    show morphological analysis
+* `2`:    show morphological analysis and pretagging
+* `3`:    show morphological analysis, pretagging, and disambiguation
+* `4`:    show transferred but ungenerated morphemes
 
 Files and data
 ===============================================================================
 
-* eng.dix
+* `eng.dix`
   - Monolingual English dictionary
-* eng-kam.t1x
+* `eng-kam.t1x`
   - English -> Kikamba structural transfer rules
-* kam.dix
+* `kam.dix`
   - Monolingual Kikamba dictionary
-* kam-eng.dix
+* `kam-eng.dix`
   - Bilingual Kikamba & English dictionary
-* kam-eng.t1x
+* `kam-eng.t1x`
   - Kikamba -> English structural transfer rules
-* nc-morphology.pdf
+* `nc-morphology.pdf`
   - Morphology paper on which this tool is based
-* pretagger.py
+* `pretagger.py`
   - Pretagger helper tool
-* tagger.awk
+* `tagger.awk`
   - Tagging disambiguation tool
-* translate.sh
+* `translate.sh`
   - Executable file for translations
 
 Kikamba lemmas
