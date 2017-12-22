@@ -38,10 +38,11 @@ if [[ $* == *-h* ]]; then
   echo -e "\t-h, --help\tShow this help page${NC}"
 
   echo -e "\nSpecial line characters:${GREEN}"
-  echo -e "\tπ\t\tForce a one-time translation in the opposite direction"
-  echo -e "\t&\t\tShow morphological analysis"
-  echo -e "\t=\t\tShow morphological analysis and pretagging output"
-  echo -e "\t?\t\tShow transfered but ungenerated morphemes${NC}"
+  echo -e "\t0\t\tForce a one-time translation in the opposite direction"
+  echo -e "\t1\t\tShow morphological analysis"
+  echo -e "\t2\t\tShow morph. analysis and pretagging"
+  echo -e "\t3\t\tShow morph. analysis, pretagging, and disambiguation"
+  echo -e "\t4\t\tShow transferred but ungenerated morphemes${NC}"
 
   if [[ $* == *--help* ]]; then
     exit
@@ -70,7 +71,7 @@ while true; do
 
   # allow one-line translations going the other way
   DIR=$SRC
-  if [[ $TOKEN == *"π"* ]]; then
+  if [[ $TOKEN == *"0"* ]]; then
     DIR=$TAR
   fi
 
@@ -78,12 +79,16 @@ while true; do
   if [[ $TOKEN == 'quit()' ]]; then
     exit
   fi
-  if [[ $TOKEN == *"&"* ]]; then
+  if [[ $TOKEN == *"1"* ]]; then
     echo $TOKEN | lt-proc bin/$DIR.morf
-  elif [[ $TOKEN == *"="* ]]; then
+  elif [[ $TOKEN == *"2"* ]]; then
     echo $TOKEN | lt-proc bin/$DIR.morf | \
       python pretagger.py
-  elif [[ $TOKEN == *"?"* ]]; then
+  elif [[ $TOKEN == *"3"* ]]; then
+    echo $TOKEN | lt-proc bin/$DIR.morf | \
+      python pretagger.py | \
+      ./tagger.awk
+  elif [[ $TOKEN == *"4"* ]]; then
     echo $TOKEN | lt-proc bin/$DIR.morf | \
       python pretagger.py | \
       ./tagger.awk | \
