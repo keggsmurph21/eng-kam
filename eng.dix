@@ -91,6 +91,7 @@
     <e lm="corncob"><i>corncob</i><par n="n__s"/></e>
     <e lm="banana"><i>banana</i><par n="n__s"/></e>
     <e lm="paper"><i>paper</i><par n="n__s"/></e>
+    <e lm="roughly ground grain"><i>roughly ground grain</i><par n="n__s"/></e>
     <e lm="brick"><i>brick</i><par n="n__s"/></e>
     <e lm="temple"><i>temple</i><par n="n__s"/></e>
     <e lm="rope"><i>rope</i><par n="n__s"/></e>
@@ -123,7 +124,6 @@
     <e lm="cassava"><i>cassava</i><par n="n__s"/></e>
     <e lm="soul"><i>soul</i><par n="n__s"/></e>
 
-    <e lm="roughly ground grain"><i>roughly ground grain</i><par n="n__s"/></e>
     <e lm="leopard"><i>leopard</i><par n="n__s"/></e>
     <e lm="chair"><i>chair</i><par n="n__s"/></e>
     <e lm="shoulder"><i>shoulder</i><par n="n__s"/></e>
