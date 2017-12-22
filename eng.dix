@@ -125,7 +125,10 @@
     <e lm="cassava"><i>cassava</i><par n="n__s"/></e>
     <e lm="soul"><i>soul</i><par n="n__s"/></e>
 
-    <!-- Noun class 7, 8 -->
+    <!-- Noun classes 7, 8 -->
+    <e lm="rafter"><i>rafter</i><par n="n__s"/></e>
+    <e lm="burdock"><i>burdock</i><par n="n__s"/></e>
+    <e lm="epiphany"><i>epiphany</i><par n="n__ies"/></e>
     <e lm="leopard"><i>leopard</i><par n="n__s"/></e>
     <e lm="chair"><i>chair</i><par n="n__s"/></e>
     <e lm="shoulder"><i>shoulder</i><par n="n__s"/></e>
