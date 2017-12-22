@@ -25,9 +25,9 @@ Compiling
 
 Given the requirements being installed, you should be able to just run:
 
-`$ ./translate.sh --build`
-
 `$ sudo chmod +x translate.sh`
+
+`$ ./translate.sh --build`
 
 Testing
 ===============================================================================
