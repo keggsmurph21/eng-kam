@@ -66,6 +66,38 @@
     <!-- Noun classes 5, 6 -->
     <e lm="liver"><i>liver</i><par n="n__s"/></e>
     <e lm="egg"><i>egg</i><par n="n__s"/></e>
+    <e lm="hundred"><i>hundred</i><par n="n__s"/></e>
+    <e lm="stiffness"><i>stiffness</i><par n="n__-/-"/></e>
+    <e lm="section"><i>section</i><par n="n__s"/></e>
+    <e lm="letter"><i>letter</i><par n="n__s"/></e>
+    <e lm="footprint"><i>footprint</i><par n="n__s"/></e>
+    <e lm="arrow"><i>arrow</i><par n="n__s"/></e>
+    <e lm="fee"><i>fee</i><par n="n__s"/></e>
+    <e lm="tent"><i>tent</i><par n="n__s"/></e>
+    <e lm="hoe"><i>hoe</i><par n="n__s"/></e>
+    <e lm="mango"><i>mango</i><par n="n__s"/></e>
+    <e lm="lake"><i>lake</i><par n="n__s"/></e>
+    <e lm="milk"><i>milk</i><par n="n__s"/></e>
+    <e lm="weed"><i>weed</i><par n="n__s"/></e>
+    <e lm="age group"><i>age group</i><par n="n__s"/></e>
+    <e lm="kitchen"><i>kitchen</i><par n="n__s"/></e>
+    <e lm="fireplace"><i>fireplace</i><par n="n__s"/></e>
+    <e lm="stove"><i>stove</i><par n="n__s"/></e>
+    <e lm="hole"><i>hole</i><par n="n__s"/></e>
+    <e lm="ditch"><i>ditch</i><par n="n__es"/></e>
+    <e lm="corncob"><i>corncob</i><par n="n__s"/></e>
+    <e lm="banana"><i>banana</i><par n="n__s"/></e>
+    <e lm="paper"><i>paper</i><par n="n__s"/></e>
+    <e lm="brick"><i>brick</i><par n="n__s"/></e>
+    <e lm="temple"><i>temple</i><par n="n__s"/></e>
+    <e lm="rope"><i>rope</i><par n="n__s"/></e>
+    <e lm="full moon"><i>full moon</i><par n="n__s"/></e>
+    <e lm="church"><i>church</i><par n="n__es"/></e>
+    <e lm="eggshell"><i>eggshell</i><par n="n__s"/></e>
+    <e lm="outcry"><i>outcry</i><par n="n__s"/></e>
+    <e lm="bird trap"><i>bird trap</i><par n="n__s"/></e>
+    <e lm="ostrich egg"><i>ostrich egg</i><par n="n__s"/></e>
+    <e lm="chisel"><i>chisel</i><par n="n__s"/></e>
     <e lm="good morning"><i>good morning</i><par n="n__s"/></e>
     <e lm="bun"><i>bun</i><par n="n__s"/></e>
     <e lm="writing"><i>writing</i><par n="n__s"/></e>
